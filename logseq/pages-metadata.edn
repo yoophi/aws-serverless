@@ -1,0 +1,2745 @@
+[{:block/name "2020-01-07",
+  :block/created-at 1666509767917,
+  :block/updated-at 1666509767917}
+ {:block/name "2020-02-18",
+  :block/created-at 1666509767929,
+  :block/updated-at 1666509767929}
+ {:block/name "2021-02-19",
+  :block/created-at 1665895360367,
+  :block/updated-at 1665895360367}
+ {:block/name "2021-02-23",
+  :block/created-at 1666509767993,
+  :block/updated-at 1666509767993}
+ {:block/name "2021-03-05",
+  :block/created-at 1665895366065,
+  :block/updated-at 1665895366065}
+ {:block/name "2021-03-06",
+  :block/created-at 1666509768000,
+  :block/updated-at 1666509768000}
+ {:block/name "2021-03-08",
+  :block/created-at 1666509768010,
+  :block/updated-at 1666509768010}
+ {:block/name "2021-03-09",
+  :block/created-at 1666509768043,
+  :block/updated-at 1666509768043}
+ {:block/name "2021-03-10",
+  :block/created-at 1666509768054,
+  :block/updated-at 1666509768054}
+ {:block/name "2021-03-11",
+  :block/created-at 1666509768064,
+  :block/updated-at 1666509768064}
+ {:block/name "2021-03-12",
+  :block/created-at 1666509768073,
+  :block/updated-at 1666509768073}
+ {:block/name "2021-03-15",
+  :block/created-at 1666509768083,
+  :block/updated-at 1666509768083}
+ {:block/name "2021-03-16",
+  :block/created-at 1666509768096,
+  :block/updated-at 1666509768096}
+ {:block/name "2021-03-17",
+  :block/created-at 1665895366375,
+  :block/updated-at 1665895366375}
+ {:block/name "2021-03-18",
+  :block/created-at 1666509768110,
+  :block/updated-at 1666509768110}
+ {:block/name "2021-03-19",
+  :block/created-at 1666509768119,
+  :block/updated-at 1666509768119}
+ {:block/name "2021-03-21",
+  :block/created-at 1666509768124,
+  :block/updated-at 1666509768124}
+ {:block/name "2021-03-22",
+  :block/created-at 1666509768134,
+  :block/updated-at 1666509768134}
+ {:block/name "2021-03-23",
+  :block/created-at 1666509768163,
+  :block/updated-at 1666509768163}
+ {:block/name "2021-03-24",
+  :block/created-at 1666509768171,
+  :block/updated-at 1666509768171}
+ {:block/name "2021-03-25",
+  :block/created-at 1666509768177,
+  :block/updated-at 1666509768177}
+ {:block/name "2021-03-26",
+  :block/created-at 1666509768182,
+  :block/updated-at 1666509768182}
+ {:block/name "2021-03-27",
+  :block/created-at 1666509768189,
+  :block/updated-at 1666509768189}
+ {:block/name "2021-03-29",
+  :block/created-at 1666509768197,
+  :block/updated-at 1666509768197}
+ {:block/name "2021-03-30",
+  :block/created-at 1666509768210,
+  :block/updated-at 1666509768210}
+ {:block/name "2021-03-31",
+  :block/created-at 1666509768225,
+  :block/updated-at 1666509768225}
+ {:block/name "2021-04-01",
+  :block/created-at 1666509768234,
+  :block/updated-at 1666509768234}
+ {:block/name "2021-04-02",
+  :block/created-at 1666509768245,
+  :block/updated-at 1666509768245}
+ {:block/name "2021-04-05",
+  :block/created-at 1666509768253,
+  :block/updated-at 1666509768253}
+ {:block/name "2021-04-06",
+  :block/created-at 1666509768259,
+  :block/updated-at 1666509768259}
+ {:block/name "2021-04-07",
+  :block/created-at 1666509768290,
+  :block/updated-at 1666509768290}
+ {:block/name "2021-04-09",
+  :block/created-at 1666509768299,
+  :block/updated-at 1666509768299}
+ {:block/name "2021-04-10",
+  :block/created-at 1666509768306,
+  :block/updated-at 1666509768306}
+ {:block/name "2021-04-13",
+  :block/created-at 1666509768312,
+  :block/updated-at 1666509768312}
+ {:block/name "2021-04-14",
+  :block/created-at 1666509768320,
+  :block/updated-at 1666509768320}
+ {:block/name "2021-04-16",
+  :block/created-at 1666509768328,
+  :block/updated-at 1666509768328}
+ {:block/name "2021-04-17",
+  :block/created-at 1666509768333,
+  :block/updated-at 1666509768333}
+ {:block/name "2021-04-18",
+  :block/created-at 1666509768337,
+  :block/updated-at 1666509768337}
+ {:block/name "2021-04-19",
+  :block/created-at 1666509768343,
+  :block/updated-at 1666509768343}
+ {:block/name "2021-04-20",
+  :block/created-at 1666509768356,
+  :block/updated-at 1666509768356}
+ {:block/name "2021-04-21",
+  :block/created-at 1665969918220,
+  :block/updated-at 1665969918220}
+ {:block/name "2021-04-22",
+  :block/created-at 1665969918526,
+  :block/updated-at 1665969918526}
+ {:block/name "2021-04-23",
+  :block/created-at 1666509768406,
+  :block/updated-at 1666509768406}
+ {:block/name "2021-04-24",
+  :block/created-at 1666509768410,
+  :block/updated-at 1666509768410}
+ {:block/name "2021-04-26",
+  :block/created-at 1666509768417,
+  :block/updated-at 1666509768417}
+ {:block/name "2021-04-27",
+  :block/created-at 1669223138427,
+  :block/updated-at 1669223138427}
+ {:block/name "2021-04-28",
+  :block/created-at 1666509768425,
+  :block/updated-at 1666509768425}
+ {:block/name "2021-04-29",
+  :block/created-at 1666509768432,
+  :block/updated-at 1666509768432}
+ {:block/name "2021-04-30",
+  :block/created-at 1666509768442,
+  :block/updated-at 1666509768442}
+ {:block/name "2021-05-02",
+  :block/created-at 1666509768448,
+  :block/updated-at 1666509768448}
+ {:block/name "2021-05-04",
+  :block/created-at 1666509768452,
+  :block/updated-at 1666509768452}
+ {:block/name "2021-05-06",
+  :block/created-at 1666509768460,
+  :block/updated-at 1666509768460}
+ {:block/name "2021-05-07",
+  :block/created-at 1665969918726,
+  :block/updated-at 1665969918726}
+ {:block/name "2021-05-08",
+  :block/created-at 1666509767938,
+  :block/updated-at 1666509767938}
+ {:block/name "2021-05-09",
+  :block/created-at 1666509768494,
+  :block/updated-at 1666509768494}
+ {:block/name "2021-05-10",
+  :block/created-at 1666509768501,
+  :block/updated-at 1666509768501}
+ {:block/name "2021-05-12",
+  :block/created-at 1666509768507,
+  :block/updated-at 1666509768507}
+ {:block/name "2021-05-13",
+  :block/created-at 1666509768530,
+  :block/updated-at 1666509768530}
+ {:block/name "2021-05-14",
+  :block/created-at 1665969918832,
+  :block/updated-at 1665969918832}
+ {:block/name "2021-05-16",
+  :block/created-at 1666509768585,
+  :block/updated-at 1666509768585}
+ {:block/name "2021-05-17",
+  :block/created-at 1666509768606,
+  :block/updated-at 1666509768606}
+ {:block/name "2021-05-18",
+  :block/created-at 1665969919035,
+  :block/updated-at 1665969919035}
+ {:block/name "2021-05-20",
+  :block/created-at 1665969919223,
+  :block/updated-at 1665969919223}
+ {:block/name "2021-05-21",
+  :block/created-at 1665969919155,
+  :block/updated-at 1665969919155}
+ {:block/name "2021-05-22",
+  :block/created-at 1666509768656,
+  :block/updated-at 1666509768656}
+ {:block/name "2021-05-25",
+  :block/created-at 1665969916076,
+  :block/updated-at 1665969916076}
+ {:block/name "2021-05-26",
+  :block/created-at 1666509767960,
+  :block/updated-at 1666509767960}
+ {:block/name "2021-05-27",
+  :block/created-at 1666509767967,
+  :block/updated-at 1666509767967}
+ {:block/name "2021-05-28",
+  :block/created-at 1665969919253,
+  :block/updated-at 1665969919253}
+ {:block/name "2021-05-30",
+  :block/created-at 1666509768713,
+  :block/updated-at 1666509768713}
+ {:block/name "2021-05-31",
+  :block/created-at 1665969916310,
+  :block/updated-at 1665969916310}
+ {:block/name "2021-06-01",
+  :block/created-at 1665969919597,
+  :block/updated-at 1665969919597}
+ {:block/name "2021-06-02",
+  :block/created-at 1666509768751,
+  :block/updated-at 1666509768751}
+ {:block/name "2021-06-03",
+  :block/created-at 1666509768781,
+  :block/updated-at 1666509768781}
+ {:block/name "2021-06-04",
+  :block/created-at 1666509768788,
+  :block/updated-at 1666509768788}
+ {:block/name "2021-06-07",
+  :block/created-at 1666509768794,
+  :block/updated-at 1666509768794}
+ {:block/name "2021-06-08",
+  :block/created-at 1665969919816,
+  :block/updated-at 1665969919816}
+ {:block/name "2021-06-09",
+  :block/created-at 1666509768806,
+  :block/updated-at 1666509768806}
+ {:block/name "2021-06-11",
+  :block/created-at 1666509768814,
+  :block/updated-at 1666509768814}
+ {:block/name "2021-06-12",
+  :block/created-at 1666509768821,
+  :block/updated-at 1666509768821}
+ {:block/name "2021-06-13",
+  :block/created-at 1666509768827,
+  :block/updated-at 1666509768827}
+ {:block/name "2021-06-14",
+  :block/created-at 1666509768841,
+  :block/updated-at 1666509768841}
+ {:block/name "2021-06-15",
+  :block/created-at 1666509768858,
+  :block/updated-at 1666509768858}
+ {:block/name "2021-06-16",
+  :block/created-at 1666509768867,
+  :block/updated-at 1666509768867}
+ {:block/name "2021-06-17",
+  :block/created-at 1666509768879,
+  :block/updated-at 1666509768879}
+ {:block/name "2021-06-18",
+  :block/created-at 1666509768913,
+  :block/updated-at 1666509768913}
+ {:block/name "2021-06-21",
+  :block/created-at 1666509768922,
+  :block/updated-at 1666509768922}
+ {:block/name "2021-06-22",
+  :block/created-at 1665969930995,
+  :block/updated-at 1665969930995}
+ {:block/name "2021-06-23",
+  :block/created-at 1665969921610,
+  :block/updated-at 1665969921610}
+ {:block/name "2021-06-28",
+  :block/created-at 1666509768940,
+  :block/updated-at 1666509768940}
+ {:block/name "2021-06-29",
+  :block/created-at 1665895364849,
+  :block/updated-at 1665895364849}
+ {:block/name "2021-06-30",
+  :block/created-at 1666509768947,
+  :block/updated-at 1666509768947}
+ {:block/name "2021-07-01",
+  :block/created-at 1666509768954,
+  :block/updated-at 1666509768954}
+ {:block/name "2021-07-02",
+  :block/created-at 1666509768961,
+  :block/updated-at 1666509768961}
+ {:block/name "2021-07-05",
+  :block/created-at 1666509768970,
+  :block/updated-at 1666509768970}
+ {:block/name "2021-07-06",
+  :block/created-at 1665969920182,
+  :block/updated-at 1665969920182}
+ {:block/name "2021-07-07",
+  :block/created-at 1666509768982,
+  :block/updated-at 1666509768982}
+ {:block/name "2021-07-08",
+  :block/created-at 1665969916331,
+  :block/updated-at 1665969916331}
+ {:block/name "2021-07-09",
+  :block/created-at 1666509769003,
+  :block/updated-at 1666509769003}
+ {:block/name "2021-07-13",
+  :block/created-at 1666509769029,
+  :block/updated-at 1666509769029}
+ {:block/name "2021-07-14",
+  :block/created-at 1666509769037,
+  :block/updated-at 1666509769037}
+ {:block/name "2021-07-19",
+  :block/created-at 1666509769047,
+  :block/updated-at 1666509769047}
+ {:block/name "2021-07-20",
+  :block/created-at 1666509769054,
+  :block/updated-at 1666509769054}
+ {:block/name "2021-07-21",
+  :block/created-at 1666509769064,
+  :block/updated-at 1666509769064}
+ {:block/name "2021-07-23",
+  :block/created-at 1666509769075,
+  :block/updated-at 1666509769075}
+ {:block/name "2021-07-27",
+  :block/created-at 1666509769082,
+  :block/updated-at 1666509769082}
+ {:block/name "2021-07-28",
+  :block/created-at 1666509769087,
+  :block/updated-at 1666509769087}
+ {:block/name "2021-07-29",
+  :block/created-at 1666509769091,
+  :block/updated-at 1666509769091}
+ {:block/name "2021-07-30",
+  :block/created-at 1666509769095,
+  :block/updated-at 1666509769095}
+ {:block/name "2021-08-02",
+  :block/created-at 1666509769100,
+  :block/updated-at 1666509769100}
+ {:block/name "2021-08-04",
+  :block/created-at 1666509769104,
+  :block/updated-at 1666509769104}
+ {:block/name "2021-08-06",
+  :block/created-at 1666509769107,
+  :block/updated-at 1666509769107}
+ {:block/name "2021-08-09",
+  :block/created-at 1666509769111,
+  :block/updated-at 1666509769111}
+ {:block/name "2021-08-11",
+  :block/created-at 1666509769117,
+  :block/updated-at 1666509769117}
+ {:block/name "2021-08-18",
+  :block/created-at 1665969920616,
+  :block/updated-at 1665969920616}
+ {:block/name "2021-08-19",
+  :block/created-at 1666509769155,
+  :block/updated-at 1666509769155}
+ {:block/name "2021-08-20",
+  :block/created-at 1666509769161,
+  :block/updated-at 1666509769161}
+ {:block/name "2021-08-24",
+  :block/created-at 1665969920750,
+  :block/updated-at 1665969920750}
+ {:block/name "2021-08-31",
+  :block/created-at 1666509769171,
+  :block/updated-at 1666509769171}
+ {:block/name "2021-09-02",
+  :block/created-at 1666509769182,
+  :block/updated-at 1666509769182}
+ {:block/name "2021-09-03",
+  :block/created-at 1666509769194,
+  :block/updated-at 1666509769194}
+ {:block/name "2021-09-05",
+  :block/created-at 1666509769199,
+  :block/updated-at 1666509769199}
+ {:block/name "2021-09-08",
+  :block/created-at 1666509769205,
+  :block/updated-at 1666509769205}
+ {:block/name "2021-09-16",
+  :block/created-at 1666509769209,
+  :block/updated-at 1666509769209}
+ {:block/name "2021-09-17",
+  :block/created-at 1666509769215,
+  :block/updated-at 1666509769215}
+ {:block/name "2021-09-19",
+  :block/created-at 1666509769220,
+  :block/updated-at 1666509769220}
+ {:block/name "2021-09-21",
+  :block/created-at 1666509769225,
+  :block/updated-at 1666509769225}
+ {:block/name "2021-09-22",
+  :block/created-at 1666509769230,
+  :block/updated-at 1666509769230}
+ {:block/name "2021-09-23",
+  :block/created-at 1666509769235,
+  :block/updated-at 1666509769235}
+ {:block/name "2021-09-24",
+  :block/created-at 1666509769242,
+  :block/updated-at 1666509769242}
+ {:block/name "2021-09-27",
+  :block/created-at 1666509769251,
+  :block/updated-at 1666509769251}
+ {:block/name "2021-10-06",
+  :block/created-at 1666509769278,
+  :block/updated-at 1666509769278}
+ {:block/name "2021-10-07",
+  :block/created-at 1666509769284,
+  :block/updated-at 1666509769284}
+ {:block/name "2021-10-08",
+  :block/created-at 1666509769294,
+  :block/updated-at 1666509769294}
+ {:block/name "2021-10-22",
+  :block/created-at 1666509769301,
+  :block/updated-at 1666509769301}
+ {:block/name "2021-10-29",
+  :block/created-at 1666509769305,
+  :block/updated-at 1666509769305}
+ {:block/name "2021-11-03",
+  :block/created-at 1666509769308,
+  :block/updated-at 1666509769308}
+ {:block/name "2021-11-05",
+  :block/created-at 1666509769311,
+  :block/updated-at 1666509769311}
+ {:block/name "2021-11-17",
+  :block/created-at 1666509769315,
+  :block/updated-at 1666509769315}
+ {:block/name "2021-11-19",
+  :block/created-at 1666509769319,
+  :block/updated-at 1666509769319}
+ {:block/name "2021-11-24",
+  :block/created-at 1666509769326,
+  :block/updated-at 1666509769326}
+ {:block/name "2021-12-01",
+  :block/created-at 1666509769332,
+  :block/updated-at 1666509769332}
+ {:block/name "2021-12-03",
+  :block/created-at 1665895354962,
+  :block/updated-at 1665895354962}
+ {:block/name "2021년 목표",
+  :block/created-at 1665969917086,
+  :block/updated-at 1665969917086}
+ {:block/name "2022-03-06",
+  :block/created-at 1666509769346,
+  :block/updated-at 1666509769346}
+ {:block/name "2022-03-07",
+  :block/created-at 1666509769346,
+  :block/updated-at 1666509769346}
+ {:block/name "2022-03-09",
+  :block/created-at 1666509769356,
+  :block/updated-at 1666509769356}
+ {:block/name "2022-03-26",
+  :block/created-at 1649128482900,
+  :block/updated-at 1649128482900}
+ {:block/name "2022-03-31",
+  :block/created-at 1649128482923,
+  :block/updated-at 1649128482923}
+ {:block/name "2022-04-05",
+  :block/created-at 1649129806551,
+  :block/updated-at 1649752051325}
+ {:block/name "2022-04-08",
+  :block/created-at 1665415935394,
+  :block/updated-at 1665415935394}
+ {:block/name "2022-04-12",
+  :block/created-at 1665415934917,
+  :block/updated-at 1665415934917}
+ {:block/name "2022-04-13",
+  :block/created-at 1650692588488,
+  :block/updated-at 1650692588488}
+ {:block/name "2022-04-18",
+  :block/created-at 1650692588727,
+  :block/updated-at 1650692588727}
+ {:block/name "2022-04-19",
+  :block/created-at 1650692588813,
+  :block/updated-at 1650692588813}
+ {:block/name "2022-04-20",
+  :block/created-at 1650692588896,
+  :block/updated-at 1650692588896}
+ {:block/name "2022-04-22",
+  :block/created-at 1650270032853,
+  :block/updated-at 1650270032853}
+ {:block/name "2022-04-25",
+  :block/created-at 1650270065401,
+  :block/updated-at 1650270065401}
+ {:block/name "2022-05-08",
+  :block/created-at 1652238661855,
+  :block/updated-at 1652238661855}
+ {:block/name "2022-05-11",
+  :block/created-at 1653483297468,
+  :block/updated-at 1653483297468}
+ {:block/name "2022-05-16",
+  :block/created-at 1653483297483,
+  :block/updated-at 1653483297483}
+ {:block/name "2022-05-25",
+  :block/created-at 1665415935433,
+  :block/updated-at 1665415935433}
+ {:block/name "2022-06-01",
+  :block/created-at 1654969673580,
+  :block/updated-at 1654969673580}
+ {:block/name "2022-06-06",
+  :block/created-at 1666509769362,
+  :block/updated-at 1666509769362}
+ {:block/name "2022-06-09",
+  :block/created-at 1665415920903,
+  :block/updated-at 1665415920903}
+ {:block/name "2022-06-11",
+  :block/created-at 1665415921027,
+  :block/updated-at 1665415921027}
+ {:block/name "2022-06-12",
+  :block/created-at 1665415921187,
+  :block/updated-at 1665415921187}
+ {:block/name "2022-07-18",
+  :block/created-at 1665415921287,
+  :block/updated-at 1665415921287}
+ {:block/name "2022-07-24",
+  :block/created-at 1665415921484,
+  :block/updated-at 1665415921484}
+ {:block/name "2022-07-26",
+  :block/created-at 1665415921661,
+  :block/updated-at 1665415921661}
+ {:block/name "2022-07-27",
+  :block/created-at 1665415921700,
+  :block/updated-at 1665415921700}
+ {:block/name "2022-07-31",
+  :block/created-at 1665415921825,
+  :block/updated-at 1665415921825}
+ {:block/name "2022-08-02",
+  :block/created-at 1665415921880,
+  :block/updated-at 1665415921880}
+ {:block/name "2022-08-03",
+  :block/created-at 1665415921932,
+  :block/updated-at 1665415921932}
+ {:block/name "2022-08-05",
+  :block/created-at 1665415921960,
+  :block/updated-at 1665415921960}
+ {:block/name "2022-08-06",
+  :block/created-at 1665415922002,
+  :block/updated-at 1665415922002}
+ {:block/name "2022-08-07",
+  :block/created-at 1665415922013,
+  :block/updated-at 1665415922013}
+ {:block/name "2022-08-12",
+  :block/created-at 1665415922027,
+  :block/updated-at 1665415922027}
+ {:block/name "2022-08-14",
+  :block/created-at 1665415922085,
+  :block/updated-at 1665415922085}
+ {:block/name "2022-08-15",
+  :block/created-at 1665415922130,
+  :block/updated-at 1665415922130}
+ {:block/name "2022-08-16",
+  :block/created-at 1665415922263,
+  :block/updated-at 1665415922263}
+ {:block/name "2022-08-17",
+  :block/created-at 1665415922292,
+  :block/updated-at 1665415922292}
+ {:block/name "2022-08-21",
+  :block/created-at 1665415922317,
+  :block/updated-at 1665415922317}
+ {:block/name "2022-08-25",
+  :block/created-at 1665415922347,
+  :block/updated-at 1665415922347}
+ {:block/name "2022-08-28",
+  :block/created-at 1665415922522,
+  :block/updated-at 1665415922522}
+ {:block/name "2022-08-31",
+  :block/created-at 1665415922581,
+  :block/updated-at 1665415922581}
+ {:block/name "2022-09-03",
+  :block/created-at 1665415922657,
+  :block/updated-at 1665415922657}
+ {:block/name "2022-09-04",
+  :block/created-at 1665415922696,
+  :block/updated-at 1665415922696}
+ {:block/name "2022-09-05",
+  :block/created-at 1665415922719,
+  :block/updated-at 1665415922719}
+ {:block/name "2022-09-11",
+  :block/created-at 1665415922810,
+  :block/updated-at 1665415922810}
+ {:block/name "2022-09-12",
+  :block/created-at 1665415922955,
+  :block/updated-at 1665908008107}
+ {:block/name "2022-09-14",
+  :block/created-at 1665415923312,
+  :block/updated-at 1665415923312}
+ {:block/name "2022-09-15",
+  :block/created-at 1665415923334,
+  :block/updated-at 1665415923334}
+ {:block/name "2022-09-18",
+  :block/created-at 1665415923355,
+  :block/updated-at 1665415923355}
+ {:block/name "2022-09-20",
+  :block/created-at 1665415923611,
+  :block/updated-at 1665415923611}
+ {:block/name "2022-09-21",
+  :block/created-at 1665415923634,
+  :block/updated-at 1665415923634}
+ {:block/name "2022-09-22",
+  :block/created-at 1665415923669,
+  :block/updated-at 1665415923669}
+ {:block/name "2022-09-23",
+  :block/created-at 1665415923845,
+  :block/updated-at 1665415923845}
+ {:block/name "2022-09-24",
+  :block/created-at 1665415924516,
+  :block/updated-at 1665415924516}
+ {:block/name "2022-09-25",
+  :block/created-at 1665415924829,
+  :block/updated-at 1665415924829}
+ {:block/name "2022-09-26",
+  :block/created-at 1665415925522,
+  :block/updated-at 1665415925522}
+ {:block/name "2022-09-27",
+  :block/created-at 1665415925666,
+  :block/updated-at 1665415925666}
+ {:block/name "2022-09-28",
+  :block/created-at 1664614794404,
+  :block/updated-at 1664614794404}
+ {:block/name "2022-09-29",
+  :block/created-at 1665415926781,
+  :block/updated-at 1665415926781}
+ {:block/name "2022-09-30",
+  :block/created-at 1665415926825,
+  :block/updated-at 1665415926825}
+ {:block/name "2022-10-01",
+  :block/created-at 1664614792691,
+  :block/updated-at 1665106342425}
+ {:block/name "2022-10-03",
+  :block/created-at 1665415927878,
+  :block/updated-at 1665415927878}
+ {:block/name "2022-10-04",
+  :block/created-at 1665415928457,
+  :block/updated-at 1665415928457}
+ {:block/name "2022-10-05",
+  :block/created-at 1665415928871,
+  :block/updated-at 1665415928871}
+ {:block/name "2022-10-06",
+  :block/created-at 1665415928870,
+  :block/updated-at 1665415928870}
+ {:block/name "2022-10-07",
+  :block/created-at 1665071255159,
+  :block/updated-at 1665071255159}
+ {:block/name "2022-10-08",
+  :block/created-at 1665415930132,
+  :block/updated-at 1665415930132}
+ {:block/name "2022-10-09",
+  :block/created-at 1665243795458,
+  :block/updated-at 1665281431971}
+ {:block/name "2022-10-10",
+  :block/created-at 1665415930511,
+  :block/updated-at 1665415930511}
+ {:block/name "2022-10-12",
+  :block/created-at 1669223130487,
+  :block/updated-at 1669223130487}
+ {:block/name "2022-10-13",
+  :block/created-at 1669223130759,
+  :block/updated-at 1669223130759}
+ {:block/name "2022-10-14",
+  :block/created-at 1669223130786,
+  :block/updated-at 1669223130786}
+ {:block/name "2022-10-15",
+  :block/created-at 1669223130806,
+  :block/updated-at 1669223130806}
+ {:block/name "2022-10-16",
+  :block/created-at 1666509769377,
+  :block/updated-at 1666509769377}
+ {:block/name "2022-10-18",
+  :block/created-at 1666057077666,
+  :block/updated-at 1666071150081}
+ {:block/name "2022-10-19",
+  :block/created-at 1669223131620,
+  :block/updated-at 1669223131620}
+ {:block/name "2022-10-21",
+  :block/created-at 1669223132377,
+  :block/updated-at 1669223132377}
+ {:block/name "2022-10-23",
+  :block/created-at 1669223133026,
+  :block/updated-at 1669223133026}
+ {:block/name "2022-10-24",
+  :block/created-at 1669223133411,
+  :block/updated-at 1669223133411}
+ {:block/name "2022-10-25",
+  :block/created-at 1669223134273,
+  :block/updated-at 1669223134273}
+ {:block/name "2022-10-26",
+  :block/created-at 1665415931187,
+  :block/updated-at 1666776181680}
+ {:block/name "2022-10-27",
+  :block/created-at 1669223134381,
+  :block/updated-at 1669223134381}
+ {:block/name "2022-11-01",
+  :block/created-at 1669223135011,
+  :block/updated-at 1669223135011}
+ {:block/name "2022-11-04",
+  :block/created-at 1669223135683,
+  :block/updated-at 1669223135683}
+ {:block/name "2022-11-24",
+  :block/created-at 1669223099470,
+  :block/updated-at 1669223099470}
+ {:block/name "2299faea-ad0e-4a56-b713-92766a53959d",
+  :block/created-at 1665969925889,
+  :block/updated-at 1665969925889}
+ {:block/name "3d 프린터",
+  :block/created-at 1666509768483,
+  :block/updated-at 1666509768483}
+ {:block/name "62244164-0bba-48f1-a1c0-61ecc262ba85",
+  :block/created-at 1666509769346,
+  :block/updated-at 1666509769346}
+ {:block/name "@reduxjs",
+  :block/created-at 1665969923235,
+  :block/updated-at 1665969923235}
+ {:block/name "@reduxjs/toolkit",
+  :block/created-at 1665969923233,
+  :block/updated-at 1665969923233}
+ {:block/name "[[b플랫폼]] mvp 버전 오픈 준비",
+  :block/created-at 1666509769001,
+  :block/updated-at 1666509769001}
+ {:block/name "[[b플랫폼]] mvp 스펙",
+  :block/created-at 1666509769002,
+  :block/updated-at 1666509769002}
+ {:block/name "[[b플랫폼]] 개발 회의 2021-04-14",
+  :block/created-at 1666509768319,
+  :block/updated-at 1666509768319}
+ {:block/name "[[b플랫폼]] 개발 회의 2021-04-27",
+  :block/created-at 1665897079402,
+  :block/updated-at 1665897079402}
+ {:block/name "[[b플랫폼]] 개발 회의 2021-05-07",
+  :block/created-at 1666509768452,
+  :block/updated-at 1666509768452}
+ {:block/name "[[b플랫폼]] 개발 회의 2021-05-18",
+  :block/created-at 1665897079873,
+  :block/updated-at 1665897079873}
+ {:block/name "[[b플랫폼]] 개발 회의 [[july 6th, 2021]]",
+  :block/created-at 1665897079182,
+  :block/updated-at 1665897079182}
+ {:block/name "[[b플랫폼]] 개발 회의 [[june 1st, 2021]]",
+  :block/created-at 1665897079811,
+  :block/updated-at 1665897079811}
+ {:block/name "[[b플랫폼]] 개발 회의 [[june 22nd, 2021]]",
+  :block/created-at 1665897079471,
+  :block/updated-at 1665897079471}
+ {:block/name "[[b플랫폼]] 개발 회의 [[june 8th, 2021]]",
+  :block/created-at 1665897079554,
+  :block/updated-at 1665897079554}
+ {:block/name "[[b플랫폼]] 개발 회의 [[may 18th, 2021]]",
+  :block/created-at 1666509768615,
+  :block/updated-at 1666509768615}
+ {:block/name "[[b플랫폼]] 개발 회의 [[may 25th, 2021]]",
+  :block/created-at 1666509768666,
+  :block/updated-at 1666509768666}
+ {:block/name "[[b플랫폼]] 개발팀 티타임 [[may 31st, 2021]]",
+  :block/created-at 1666509768725,
+  :block/updated-at 1666509768725}
+ {:block/name "[[b플랫폼]] 디자인 회의 [[june 1st, 2021]]",
+  :block/created-at 1665897188046,
+  :block/updated-at 1665897188046}
+ {:block/name "[[b플랫폼]] 실습 환경 회의 [[june 8th, 2021]]",
+  :block/created-at 1665897099424,
+  :block/updated-at 1665897099424}
+ {:block/name "[[b플랫폼]] 업무 로드맵",
+  :block/created-at 1666509769047,
+  :block/updated-at 1666509769047}
+ {:block/name "[[b플랫폼]] 워크샵 [[august 24th, 2021]]",
+  :block/created-at 1666509769166,
+  :block/updated-at 1666509769166}
+ {:block/name "[[b플랫폼]] 워크샵 [[july 8th, 2021]]",
+  :block/created-at 1665897188314,
+  :block/updated-at 1665897188314}
+ {:block/name "[[b플랫폼]] 전략 회의 [[july 6th, 2021]]",
+  :block/created-at 1666509768977,
+  :block/updated-at 1666509768977}
+ {:block/name "[[b플랫폼]] 커뮤니티 poc",
+  :block/created-at 1666509768780,
+  :block/updated-at 1666509768780}
+ {:block/name "[[b플랫폼]] 프로젝트",
+  :block/created-at 1665969917089,
+  :block/updated-at 1665969917089}
+ {:block/name "[[b플랫폼]] 협업(실습환경) 에디터 니즈에 대한 유저 리서치 [[june 7th, 2021]]",
+  :block/created-at 1666509768794,
+  :block/updated-at 1666509768794}
+ {:block/name "[[journal]] [[feb 18th, 2020]]",
+  :block/created-at 1666509767929,
+  :block/updated-at 1666509767929}
+ {:block/name "[[journal]] [[jan 7th, 2020]]",
+  :block/created-at 1666509767917,
+  :block/updated-at 1666509767917}
+ {:block/name "[[journal]] [[july 8th, 2021]]",
+  :block/created-at 1666509767983,
+  :block/updated-at 1666509767983}
+ {:block/name "[[journal]] [[may 25th, 2021]]",
+  :block/created-at 1666509767948,
+  :block/updated-at 1666509767948}
+ {:block/name "[[journal]] [[may 26th, 2021]]",
+  :block/created-at 1666509767960,
+  :block/updated-at 1666509767960}
+ {:block/name "[[journal]] [[may 27th, 2021]]",
+  :block/created-at 1666509767968,
+  :block/updated-at 1666509767968}
+ {:block/name "[[journal]] [[may 31st, 2021]]",
+  :block/created-at 1666509767975,
+  :block/updated-at 1666509767975}
+ {:block/name "[[journal]] [[may 8th, 2021]]",
+  :block/created-at 1666509767938,
+  :block/updated-at 1666509767938}
+ {:block/name "[[kong]] https-redirect",
+  :block/created-at 1665969922607,
+  :block/updated-at 1665969922607}
+ {:block/name "[[kubernetes]] tips",
+  :block/created-at 1666509768332,
+  :block/updated-at 1666509768332}
+ {:block/name "[[kubernetes]] 기반의 [[microservices]]",
+  :block/created-at 1665969917092,
+  :block/updated-at 1665969917092}
+ {:block/name "[[micro frontend]] 강의 듣기",
+  :block/created-at 1666509768968,
+  :block/updated-at 1666509768968}
+ {:block/name "[[node.js]] + [[kafka]]",
+  :block/created-at 1666509768584,
+  :block/updated-at 1666509768584}
+ {:block/name "[[roam research]] 활용 팁",
+  :block/created-at 1665897220393,
+  :block/updated-at 1665897220393}
+ {:block/name "[[today app]] 사용자 스토리",
+  :block/created-at 1665969923672,
+  :block/updated-at 1665969923672}
+ {:block/name "[[개발 환경]] 비밀번호들 정리하기",
+  :block/created-at 1665969919547,
+  :block/updated-at 1665969919547}
+ {:block/name "[[디자인 회의]] [[may 20th, 2021]]",
+  :block/created-at 1665969931613,
+  :block/updated-at 1665969931613}
+ {:block/name "[[블록체인]] [[개발 환경 설치]]",
+  :block/created-at 1665969924617,
+  :block/updated-at 1665969924617}
+ {:block/name "[[블록체인]] 스터디 [[may 14th, 2021]]",
+  :block/created-at 1666509768547,
+  :block/updated-at 1666509768547}
+ {:block/name "[[블록체인]] 스터디 [[may 18th, 2021]]",
+  :block/created-at 1666509768616,
+  :block/updated-at 1666509768616}
+ {:block/name "[[블록체인]] 스터디 [[may 21st, 2021]]",
+  :block/created-at 1666509768651,
+  :block/updated-at 1666509768651}
+ {:block/name "[[블록체인]] 스터디 [[may 28th, 2021]]",
+  :block/created-at 1665897275770,
+  :block/updated-at 1665897275770}
+ {:block/name "[[블록체인]] 스터디 [[may 7th, 2021]]",
+  :block/created-at 1666509768471,
+  :block/updated-at 1666509768471}
+ {:block/name "[[영어 수업]] [[april 14th, 2021]]",
+  :block/created-at 1665897483924,
+  :block/updated-at 1665897483924}
+ {:block/name "[[영어 수업]] [[april 16th, 2021]]",
+  :block/created-at 1665897484380,
+  :block/updated-at 1665897484380}
+ {:block/name "[[영어 수업]] [[april 21st, 2021]]",
+  :block/created-at 1665897486599,
+  :block/updated-at 1665897486599}
+ {:block/name "[[영어 수업]] [[april 23rd, 2021]]",
+  :block/created-at 1665897484977,
+  :block/updated-at 1665897484977}
+ {:block/name "[[영어 수업]] [[april 28th, 2021]]",
+  :block/created-at 1665897488595,
+  :block/updated-at 1665897488595}
+ {:block/name "[[영어 수업]] [[april 2nd, 2021]]",
+  :block/created-at 1665897486209,
+  :block/updated-at 1665897486209}
+ {:block/name "[[영어 수업]] [[april 30th, 2021]]",
+  :block/created-at 1665897484827,
+  :block/updated-at 1665897484827}
+ {:block/name "[[영어 수업]] [[april 7th, 2021]]",
+  :block/created-at 1665897489397,
+  :block/updated-at 1665897489397}
+ {:block/name "[[영어 수업]] [[april 9th, 2021]]",
+  :block/created-at 1665897485492,
+  :block/updated-at 1665897485492}
+ {:block/name "[[영어 수업]] [[august 11th, 2021]]",
+  :block/created-at 1665897485592,
+  :block/updated-at 1665897485592}
+ {:block/name "[[영어 수업]] [[august 18th, 2021]]",
+  :block/created-at 1665897484197,
+  :block/updated-at 1665897484197}
+ {:block/name "[[영어 수업]] [[august 4th, 2021]]",
+  :block/created-at 1665897488912,
+  :block/updated-at 1665897488912}
+ {:block/name "[[영어 수업]] [[august 6th, 2021]]",
+  :block/created-at 1665897486010,
+  :block/updated-at 1665897486010}
+ {:block/name "[[영어 수업]] [[december 1st, 2021]]",
+  :block/created-at 1665897485664,
+  :block/updated-at 1665897485664}
+ {:block/name "[[영어 수업]] [[december 3rd, 2021]]",
+  :block/created-at 1665897485891,
+  :block/updated-at 1665897485891}
+ {:block/name "[[영어 수업]] [[feb 19th, 2021]]",
+  :block/created-at 1665895360371,
+  :block/updated-at 1665895360371}
+ {:block/name "[[영어 수업]] [[july 14th, 2021]]",
+  :block/created-at 1666509769037,
+  :block/updated-at 1666509769037}
+ {:block/name "[[영어 수업]] [[july 23rd, 2021]]",
+  :block/created-at 1665895364425,
+  :block/updated-at 1665895364425}
+ {:block/name "[[영어 수업]] [[july 28th, 2021]]",
+  :block/created-at 1665895361583,
+  :block/updated-at 1665895361583}
+ {:block/name "[[영어 수업]] [[july 2nd, 2021]]",
+  :block/created-at 1665895360872,
+  :block/updated-at 1665895360872}
+ {:block/name "[[영어 수업]] [[july 30th, 2021]]",
+  :block/created-at 1665895362758,
+  :block/updated-at 1665895362758}
+ {:block/name "[[영어 수업]] [[july 7th, 2021]]",
+  :block/created-at 1665895361204,
+  :block/updated-at 1665895361204}
+ {:block/name "[[영어 수업]] [[july 9th, 2021]]",
+  :block/created-at 1665895361284,
+  :block/updated-at 1665895361284}
+ {:block/name "[[영어 수업]] [[june 11th, 2021]]",
+  :block/created-at 1665895363138,
+  :block/updated-at 1665895363138}
+ {:block/name "[[영어 수업]] [[june 16th, 2021]]",
+  :block/created-at 1665895364931,
+  :block/updated-at 1665895364931}
+ {:block/name "[[영어 수업]] [[june 23rd, 2021]]",
+  :block/created-at 1665895364026,
+  :block/updated-at 1665895364026}
+ {:block/name "[[영어 수업]] [[june 29th, 2021]]",
+  :block/created-at 1665895364850,
+  :block/updated-at 1665895364850}
+ {:block/name "[[영어 수업]] [[june 2nd, 2021]]",
+  :block/created-at 1665895362392,
+  :block/updated-at 1665895362392}
+ {:block/name "[[영어 수업]] [[june 30th, 2021]]",
+  :block/created-at 1665895365412,
+  :block/updated-at 1665895365412}
+ {:block/name "[[영어 수업]] [[june 9th, 2021]]",
+  :block/created-at 1665895364515,
+  :block/updated-at 1665895364515}
+ {:block/name "[[영어 수업]] [[march 10th, 2021]]",
+  :block/created-at 1665895365757,
+  :block/updated-at 1665895365757}
+ {:block/name "[[영어 수업]] [[march 17th, 2021]]",
+  :block/created-at 1665895366376,
+  :block/updated-at 1665895366376}
+ {:block/name "[[영어 수업]] [[march 19th, 2021]]",
+  :block/created-at 1665895365304,
+  :block/updated-at 1665895365304}
+ {:block/name "[[영어 수업]] [[march 24th, 2021]]",
+  :block/created-at 1665895365977,
+  :block/updated-at 1665895365977}
+ {:block/name "[[영어 수업]] [[march 26th, 2021]]",
+  :block/created-at 1665895365680,
+  :block/updated-at 1665895365680}
+ {:block/name "[[영어 수업]] [[march 31st, 2021]]",
+  :block/created-at 1665895366467,
+  :block/updated-at 1665895366467}
+ {:block/name "[[영어 수업]] [[march 5th, 2021]]",
+  :block/created-at 1665895366067,
+  :block/updated-at 1665895366067}
+ {:block/name "[[영어 수업]] [[may 14th, 2021]]",
+  :block/created-at 1665895366934,
+  :block/updated-at 1665895366934}
+ {:block/name "[[영어 수업]] [[may 7th, 2021]]",
+  :block/created-at 1665895366421,
+  :block/updated-at 1665895366421}
+ {:block/name "[[영어 수업]] [[november 19th, 2021]]",
+  :block/created-at 1665895367689,
+  :block/updated-at 1665895367689}
+ {:block/name "[[영어 수업]] [[november 3rd, 2021]]",
+  :block/created-at 1665895368615,
+  :block/updated-at 1665895368615}
+ {:block/name "[[영어 수업]] [[november 5th, 2021]]",
+  :block/created-at 1665895367767,
+  :block/updated-at 1665895367767}
+ {:block/name "[[영어 수업]] [[october 22nd, 2021]]",
+  :block/created-at 1665895369567,
+  :block/updated-at 1665895369567}
+ {:block/name "[[영어 수업]] [[october 29th, 2021]]",
+  :block/created-at 1665895371065,
+  :block/updated-at 1665895371065}
+ {:block/name "[[영어 수업]] [[october 6th, 2021]]",
+  :block/created-at 1665895371736,
+  :block/updated-at 1665895371736}
+ {:block/name "[[영어 수업]] [[october 8th, 2021]]",
+  :block/created-at 1665895372537,
+  :block/updated-at 1665895372537}
+ {:block/name "[[영작]] 2021-02-05",
+  :block/created-at 1665897315489,
+  :block/updated-at 1665897315489}
+ {:block/name "[[영작]] [[april 21st, 2021]]",
+  :block/created-at 1665897315541,
+  :block/updated-at 1665897315541}
+ {:block/name "[[이벤트]] 기반 [[microservices]]",
+  :block/created-at 1665969918831,
+  :block/updated-at 1665969918831}
+ {:block/name "[css",
+  :block/created-at 1665895291350,
+  :block/updated-at 1665895291350}
+ {:block/name "[deno",
+  :block/created-at 1666509768493,
+  :block/updated-at 1666509768493}
+ {:block/name "[react",
+  :block/created-at 1666509768372,
+  :block/updated-at 1666509768372}
+ {:block/name "[typescript",
+  :block/created-at 1666509768370,
+  :block/updated-at 1666509768370}
+ {:block/name "`usereducer` + `reduxtoolkit`",
+  :block/created-at 1665415922513,
+  :block/updated-at 1665415922513}
+ {:block/name "a",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "active record vs data mapper",
+  :block/created-at 1665969919847,
+  :block/updated-at 1665969919847}
+ {:block/name "air-frame",
+  :block/created-at 1665969923075,
+  :block/updated-at 1665969923075}
+ {:block/name "airframe",
+  :block/created-at 1666509768545,
+  :block/updated-at 1666509768545}
+ {:block/name "alfred workflow 만들기",
+  :block/created-at 1666509768441,
+  :block/updated-at 1666509768441}
+ {:block/name "apple notes를 markdown으로 백업하기",
+  :block/created-at 1649128417343,
+  :block/updated-at 1649128417343}
+ {:block/name "architecture",
+  :block/created-at 1665451836856,
+  :block/updated-at 1665451851723}
+ {:block/name "architecture patterns with python",
+  :block/created-at 1665969921611,
+  :block/updated-at 1665969921611}
+ {:block/name "arduino",
+  :block/created-at 1665969921725,
+  :block/updated-at 1665969921725}
+ {:block/name "argo events",
+  :block/created-at 1665969919980,
+  :block/updated-at 1665969919980}
+ {:block/name "argo workflow",
+  :block/created-at 1666509769250,
+  :block/updated-at 1666509769250}
+ {:block/name "argo workflows",
+  :block/created-at 1665415934921,
+  :block/updated-at 1665415934921}
+ {:block/name "argocd 가 diff 를 제대로 캐치하지 못하는 문제 확인하기",
+  :block/created-at 1665108550086,
+  :block/updated-at 1665108550086}
+ {:block/name "asciinema",
+  :block/created-at 1649128417603,
+  :block/updated-at 1649128417603}
+ {:block/name "asdf",
+  :block/created-at 1649128417596,
+  :block/updated-at 1649128417596}
+ {:block/name "asyncio",
+  :block/created-at 1666509768163,
+  :block/updated-at 1666509768163}
+ {:block/name "asyncio in jupyter notebook",
+  :block/created-at 1666509768119,
+  :block/updated-at 1666509768119}
+ {:block/name "atomic match",
+  :block/created-at 1661749078934,
+  :block/updated-at 1661749078934}
+ {:block/name "aws",
+  :block/created-at 1664614791570,
+  :block/updated-at 1664614791570}
+ {:block/name "aws appconfig",
+  :block/created-at 1666789226227,
+  :block/updated-at 1666789226227}
+ {:block/name "aws sam",
+  :block/created-at 1653483309590,
+  :block/updated-at 1653578394999}
+ {:block/name "aws 솔루션 아키텍트",
+  :block/created-at 1665969924838,
+  :block/updated-at 1665969924838}
+ {:block/name "awslogs",
+  :block/created-at 1662878304885,
+  :block/updated-at 1662878304885}
+ {:block/name "b",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "bat",
+  :block/created-at 1649128417600,
+  :block/updated-at 1649128417600}
+ {:block/name "bdd",
+  :block/created-at 1665969920223,
+  :block/updated-at 1665969920223}
+ {:block/name "behave",
+  :block/created-at 1665969921597,
+  :block/updated-at 1665969921597}
+ {:block/name "blockchain network 를 이용한 crowdsale 사이트 만들기",
+  :block/created-at 1665813291312,
+  :block/updated-at 1665813291312}
+ {:block/name "book",
+  :block/created-at 1664206994509,
+  :block/updated-at 1664206994509}
+ {:block/name "branch",
+  :block/created-at 1659826932605,
+  :block/updated-at 1659826932605}
+ {:block/name "b플랫폼",
+  :block/created-at 1665969917088,
+  :block/updated-at 1665969917088}
+ {:block/name "b플랫폼 mvp 버전 오픈 준비",
+  :block/created-at 1665969930533,
+  :block/updated-at 1665969930533}
+ {:block/name "b플랫폼 mvp 스펙",
+  :block/created-at 1665969930585,
+  :block/updated-at 1665969930585}
+ {:block/name "b플랫폼 개발 회의 2021-04-27",
+  :block/created-at 1665969930761,
+  :block/updated-at 1665969930761}
+ {:block/name "b플랫폼 개발 회의 2021-05-07",
+  :block/created-at 1665969931178,
+  :block/updated-at 1665969931178}
+ {:block/name "b플랫폼 개발 회의 2021-05-18",
+  :block/created-at 1665969930781,
+  :block/updated-at 1665969930781}
+ {:block/name "b플랫폼 개발 회의 july 6th, 2021",
+  :block/created-at 1665969930805,
+  :block/updated-at 1665969930805}
+ {:block/name "b플랫폼 개발 회의 june 1st, 2021",
+  :block/created-at 1665969931210,
+  :block/updated-at 1665969931210}
+ {:block/name "b플랫폼 개발 회의 june 22nd, 2021",
+  :block/created-at 1665969930999,
+  :block/updated-at 1665969930999}
+ {:block/name "b플랫폼 개발 회의 june 8th, 2021",
+  :block/created-at 1665969931141,
+  :block/updated-at 1665969931141}
+ {:block/name "b플랫폼 개발 회의 may 25th, 2021",
+  :block/created-at 1665969930941,
+  :block/updated-at 1665969930941}
+ {:block/name "b플랫폼 개발팀 티타임 may 31st, 2021",
+  :block/created-at 1665969930971,
+  :block/updated-at 1665969930971}
+ {:block/name "b플랫폼 디자인 회의 june 1st, 2021",
+  :block/created-at 1665969931410,
+  :block/updated-at 1665969931410}
+ {:block/name "b플랫폼 로드맵",
+  :block/created-at 1665969931570,
+  :block/updated-at 1665969931570}
+ {:block/name "b플랫폼 실습 환경 회의 june 8th, 2021",
+  :block/created-at 1665969931337,
+  :block/updated-at 1665969931337}
+ {:block/name "b플랫폼 워크샵 august 24th, 2021",
+  :block/created-at 1665969931390,
+  :block/updated-at 1665969931390}
+ {:block/name "b플랫폼 워크샵 july 8th, 2021",
+  :block/created-at 1665969931368,
+  :block/updated-at 1665969931368}
+ {:block/name "b플랫폼 커뮤니티 poc",
+  :block/created-at 1665969930718,
+  :block/updated-at 1665969930718}
+ {:block/name "b플랫폼 프로젝트",
+  :block/created-at 1665969921785,
+  :block/updated-at 1665969921785}
+ {:block/name "b플랫폼 협업(실습환경) 에디터 니즈에 대한 유저 리서치 june 7th, 2021",
+  :block/created-at 1665969930737,
+  :block/updated-at 1665969930737}
+ {:block/name "b플랫폼]] 협업(실습환경) 에디터 니즈에 대한 유저 리서치 [[june 7th, 2021",
+  :block/created-at 1665898067184,
+  :block/updated-at 1665898067184}
+ {:block/name "c",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "caddy",
+  :block/created-at 1666509768542,
+  :block/updated-at 1666509768542}
+ {:block/name "canceled",
+  :block/created-at 1665416058114,
+  :block/updated-at 1665416058114}
+ {:block/name "cancelled",
+  :block/created-at 1665416058114,
+  :block/updated-at 1665416058114}
+ {:block/name "card",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "cardbook",
+  :block/created-at 1665969914872,
+  :block/updated-at 1665969914872}
+ {:block/name "cfop",
+  :block/created-at 1664926280804,
+  :block/updated-at 1664926280804}
+ {:block/name "chakra ui",
+  :block/created-at 1666509768921,
+  :block/updated-at 1666509768921}
+ {:block/name "change user password",
+  :block/created-at 1664088802018,
+  :block/updated-at 1664088802018}
+ {:block/name "chrome extension 개발",
+  :block/created-at 1665969920925,
+  :block/updated-at 1665969920925}
+ {:block/name "cka 자격증",
+  :block/created-at 1665969921379,
+  :block/updated-at 1665969921379}
+ {:block/name "clean architecture",
+  :block/created-at 1662952909901,
+  :block/updated-at 1665454018087}
+ {:block/name "clean architecture with nestjs",
+  :block/created-at 1662952813274,
+  :block/updated-at 1662952909901}
+ {:block/name "cloud ide",
+  :block/created-at 1665969917963,
+  :block/updated-at 1665969917963}
+ {:block/name "cms",
+  :block/created-at 1665969914878,
+  :block/updated-at 1665969914878}
+ {:block/name "codelion",
+  :block/created-at 1665969914850,
+  :block/updated-at 1665969914850}
+ {:block/name "coffee",
+  :block/created-at 1665969942469,
+  :block/updated-at 1665969942469}
+ {:block/name "coffeescript",
+  :block/created-at 1666509768133,
+  :block/updated-at 1666509768133}
+ {:block/name "commandline application",
+  :block/created-at 1665415926469,
+  :block/updated-at 1665415926469}
+ {:block/name "console utilities",
+  :block/created-at 1649128417517,
+  :block/updated-at 1649128417517}
+ {:block/name "contents",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "cors",
+  :block/created-at 1665969916852,
+  :block/updated-at 1665969916852}
+ {:block/name "cra 에 ssr 적용하기",
+  :block/created-at 1664286888782,
+  :block/updated-at 1664286888782}
+ {:block/name "crdt",
+  :block/created-at 1665969917793,
+  :block/updated-at 1665969917793}
+ {:block/name "create database with owner",
+  :block/created-at 1664088791984,
+  :block/updated-at 1664088791984}
+ {:block/name "create user",
+  :block/created-at 1664088780010,
+  :block/updated-at 1664088780010}
+ {:block/name "create-react-app + typescript with paths alias",
+  :block/created-at 1665498924951,
+  :block/updated-at 1665499121203}
+ {:block/name "crytozombie.io",
+  :block/created-at 1650432455759,
+  :block/updated-at 1650432455759}
+ {:block/name "css",
+  :block/created-at 1669223164049,
+  :block/updated-at 1669223164049}
+ {:block/name "css flex and grid",
+  :block/created-at 1662220405261,
+  :block/updated-at 1662220405261}
+ {:block/name "cucumber.js",
+  :block/created-at 1665969921596,
+  :block/updated-at 1665969921596}
+ {:block/name "cupist",
+  :block/created-at 1665969914855,
+  :block/updated-at 1665969914855}
+ {:block/name "custom_plugins",
+  :block/created-at 1665420374495,
+  :block/updated-at 1665420374495}
+ {:block/name "cyberdeck",
+  :block/created-at 1666509768460,
+  :block/updated-at 1666509768460}
+ {:block/name "db modeling utilities",
+  :block/created-at 1666509768929,
+  :block/updated-at 1666509768929}
+ {:block/name "de-fi",
+  :block/created-at 1665969941509,
+  :block/updated-at 1665969941509}
+ {:block/name "delete user",
+  :block/created-at 1664088795132,
+  :block/updated-at 1664088795132}
+ {:block/name "deno",
+  :block/created-at 1665969919001,
+  :block/updated-at 1665969919001}
+ {:block/name "devops",
+  :block/created-at 1665969918520,
+  :block/updated-at 1665969918520}
+ {:block/name "diff and patch",
+  :block/created-at 1659826932414,
+  :block/updated-at 1659826932414}
+ {:block/name "diskstation, ds213",
+  :block/created-at 1665969916430,
+  :block/updated-at 1665969916430}
+ {:block/name "docker-compose",
+  :block/created-at 1666509768542,
+  :block/updated-at 1666509768542}
+ {:block/name "doing",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "domain driven design",
+  :block/created-at 1665969920199,
+  :block/updated-at 1665969920199}
+ {:block/name "done",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "dropbox",
+  :block/created-at 1665969916437,
+  :block/updated-at 1665969916437}
+ {:block/name "dump schema",
+  :block/created-at 1664206994445,
+  :block/updated-at 1664206994445}
+ {:block/name "dynamodb",
+  :block/created-at 1652652748251,
+  :block/updated-at 1652653488506}
+ {:block/name "ecr crossaccount",
+  :block/created-at 1664061154586,
+  :block/updated-at 1664061154586}
+ {:block/name "ecr pull image",
+  :block/created-at 1665969918608,
+  :block/updated-at 1665969918608}
+ {:block/name "eks에 knative 설치하기",
+  :block/created-at 1665969922398,
+  :block/updated-at 1665969922398}
+ {:block/name "elasticsearch",
+  :block/created-at 1665969921382,
+  :block/updated-at 1665969921382}
+ {:block/name "electron",
+  :block/created-at 1666579242103,
+  :block/updated-at 1666579242103}
+ {:block/name "electron을 이용한 osx app 개발",
+  :block/created-at 1666579242104,
+  :block/updated-at 1666579242104}
+ {:block/name "emoji-log",
+  :block/created-at 1665969916439,
+  :block/updated-at 1665969916439}
+ {:block/name "ethereum",
+  :block/created-at 1665813292574,
+  :block/updated-at 1665813292574}
+ {:block/name "event driven arcitecture",
+  :block/created-at 1666509768928,
+  :block/updated-at 1666509768928}
+ {:block/name "event driven model",
+  :block/created-at 1662952988770,
+  :block/updated-at 1662952988770}
+ {:block/name "express",
+  :block/created-at 1665385969353,
+  :block/updated-at 1665385969353}
+ {:block/name "express + knunchuck 샘플 app",
+  :block/created-at 1666509768041,
+  :block/updated-at 1666509768041}
+ {:block/name "f2l",
+  :block/created-at 1664926132792,
+  :block/updated-at 1664926132792}
+ {:block/name "fasd",
+  :block/created-at 1649128417595,
+  :block/updated-at 1649128417595}
+ {:block/name "fastapi",
+  :block/created-at 1665969918000,
+  :block/updated-at 1665969918000}
+ {:block/name "fastapi + [[clean architecture]]",
+  :block/created-at 1666509768082,
+  :block/updated-at 1666509768082}
+ {:block/name "fastapi 프로젝트에 alembic 설치하기",
+  :block/created-at 1665969918330,
+  :block/updated-at 1665969918330}
+ {:block/name "fastcgi",
+  :block/created-at 1666509768062,
+  :block/updated-at 1666509768062}
+ {:block/name "favorites",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "fission",
+  :block/created-at 1665969923327,
+  :block/updated-at 1665969923327}
+ {:block/name "foam",
+  :block/created-at 1665969916433,
+  :block/updated-at 1665969916433}
+ {:block/name "forklift",
+  :block/created-at 1664061154884,
+  :block/updated-at 1664061154884}
+ {:block/name "fzf",
+  :block/created-at 1649128417594,
+  :block/updated-at 1649128417594}
+ {:block/name "gin framework",
+  :block/created-at 1664614792209,
+  :block/updated-at 1664614792209}
+ {:block/name "git",
+  :block/created-at 1669223142927,
+  :block/updated-at 1669223142927}
+ {:block/name "git rebase",
+  :block/created-at 1659826932577,
+  :block/updated-at 1659826932577}
+ {:block/name "git study",
+  :block/created-at 1659826932608,
+  :block/updated-at 1666071636292}
+ {:block/name "git worktree",
+  :block/created-at 1665415922262,
+  :block/updated-at 1665415922262}
+ {:block/name "gitbook",
+  :block/created-at 1665969917345,
+  :block/updated-at 1665969917345}
+ {:block/name "github",
+  :block/created-at 1665698424588,
+  :block/updated-at 1665698424588}
+ {:block/name "github에 npm package 배포하기",
+  :block/created-at 1665698424593,
+  :block/updated-at 1665698424593}
+ {:block/name "gitmoji",
+  :block/created-at 1665969922180,
+  :block/updated-at 1665969922180}
+ {:block/name "glam",
+  :block/created-at 1665969914857,
+  :block/updated-at 1665969914857}
+ {:block/name "golang",
+  :block/created-at 1664323226434,
+  :block/updated-at 1664323226434}
+ {:block/name "habor",
+  :block/created-at 1666509768440,
+  :block/updated-at 1666509768440}
+ {:block/name "harbor",
+  :block/created-at 1666509768542,
+  :block/updated-at 1666509768542}
+ {:block/name "head",
+  :block/created-at 1659826932606,
+  :block/updated-at 1659826932606}
+ {:block/name "hello, world",
+  :block/created-at 1665969921559,
+  :block/updated-at 1665969921559}
+ {:block/name "home",
+  :block/created-at 1649128417682,
+  :block/updated-at 1664681170042}
+ {:block/name "how to run github actions locally?",
+  :block/created-at 1666101627838,
+  :block/updated-at 1666101627838}
+ {:block/name "in-progress",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "influential",
+  :block/created-at 1665969914858,
+  :block/updated-at 1665969914858}
+ {:block/name "insta manager",
+  :block/created-at 1665969914865,
+  :block/updated-at 1665969914865}
+ {:block/name "ipad pro 11인치",
+  :block/created-at 1665969924499,
+  :block/updated-at 1665969924499}
+ {:block/name "ipad pro 11인치 액서서리 구입",
+  :block/created-at 1665969916438,
+  :block/updated-at 1665969916438}
+ {:block/name "ipad pro 12.9인치 1세대",
+  :block/created-at 1665969922381,
+  :block/updated-at 1665969922381}
+ {:block/name "item 서비스",
+  :block/created-at 1662220405399,
+  :block/updated-at 1662220405399}
+ {:block/name "journal",
+  :block/created-at 1665969915943,
+  :block/updated-at 1665969915943}
+ {:block/name "journalctl",
+  :block/created-at 1665969918788,
+  :block/updated-at 1665969918788}
+ {:block/name "json api",
+  :block/created-at 1665969922330,
+  :block/updated-at 1665969922330}
+ {:block/name "k3s",
+  :block/created-at 1666509768507,
+  :block/updated-at 1666509768507}
+ {:block/name "kafka",
+  :block/created-at 1665313655487,
+  :block/updated-at 1665313655487}
+ {:block/name "kafka m1 mac 설치",
+  :block/created-at 1665313655141,
+  :block/updated-at 1665313655141}
+ {:block/name "kakaomap react 연동하기",
+  :block/created-at 1665969918400,
+  :block/updated-at 1665969918400}
+ {:block/name "kaniko",
+  :block/created-at 1666509769251,
+  :block/updated-at 1666509769251}
+ {:block/name "keyof 연산자를 잘 활용하기",
+  :block/created-at 1665415925517,
+  :block/updated-at 1665415925517}
+ {:block/name "kibana",
+  :block/created-at 1665969921383,
+  :block/updated-at 1665969921383}
+ {:block/name "kinesis 와 친해져보기",
+  :block/created-at 1664614792242,
+  :block/updated-at 1664614792242}
+ {:block/name "kkr-account",
+  :block/created-at 1664061154710,
+  :block/updated-at 1664061154710}
+ {:block/name "kkr-auth",
+  :block/created-at 1664061154708,
+  :block/updated-at 1664061652560}
+ {:block/name "kkr-auth-proxy",
+  :block/created-at 1664061154711,
+  :block/updated-at 1664061250144}
+ {:block/name "kkr-backend",
+  :block/created-at 1664061154709,
+  :block/updated-at 1664061671605}
+ {:block/name "kkr-dashboard",
+  :block/created-at 1665415927077,
+  :block/updated-at 1665415927077}
+ {:block/name "kkr-event-listener",
+  :block/created-at 1664061154712,
+  :block/updated-at 1664061154712}
+ {:block/name "kkr-frontend",
+  :block/created-at 1662220405374,
+  :block/updated-at 1664014882265}
+ {:block/name "klaybank 프로젝트",
+  :block/created-at 1665969941936,
+  :block/updated-at 1665969941936}
+ {:block/name "klaytn node 운영",
+  :block/created-at 1669223164186,
+  :block/updated-at 1669223164186}
+ {:block/name "knative",
+  :block/created-at 1665415934926,
+  :block/updated-at 1665415934926}
+ {:block/name "kong",
+  :block/created-at 1665895316941,
+  :block/updated-at 1665895316941}
+ {:block/name "kong api gateway",
+  :block/created-at 1665969931608,
+  :block/updated-at 1665969931608}
+ {:block/name "kong auth-redirect plugin 을 사용하도록 docker compose 를 구성",
+  :block/created-at 1665969930717,
+  :block/updated-at 1665969930717}
+ {:block/name "konkrit",
+  :block/created-at 1660576153122,
+  :block/updated-at 1664000877163}
+ {:block/name "konkrit wallet 과 metamask 를 함께 사용할 수 있도록 기반 보안 체계 변경",
+  :block/created-at 1666352726732,
+  :block/updated-at 1666352726732}
+ {:block/name "konkrit 오픈",
+  :block/created-at 1665415929366,
+  :block/updated-at 1665415929366}
+ {:block/name "konkrit 프로젝트",
+  :block/created-at 1664061154714,
+  :block/updated-at 1664061154714}
+ {:block/name "kubernetes",
+  :block/created-at 1665969917091,
+  :block/updated-at 1665969917091}
+ {:block/name "kubernetes on [[mac mini (m1)]]",
+  :block/created-at 1665969919596,
+  :block/updated-at 1665969919596}
+ {:block/name "kubernetes 기반의 microservices",
+  :block/created-at 1665969922619,
+  :block/updated-at 1665969922619}
+ {:block/name "later",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "letter4u",
+  :block/created-at 1665969914870,
+  :block/updated-at 1665969914870}
+ {:block/name "likelion",
+  :block/created-at 1665969915721,
+  :block/updated-at 1665969915721}
+ {:block/name "listing",
+  :block/created-at 1661749078961,
+  :block/updated-at 1661749078961}
+ {:block/name "lms",
+  :block/created-at 1666509767991,
+  :block/updated-at 1666509767991}
+ {:block/name "log",
+  :block/created-at 1658645584344,
+  :block/updated-at 1658645584344}
+ {:block/name "logdown",
+  :block/created-at 1652653292028,
+  :block/updated-at 1652653330054}
+ {:block/name "logseq",
+  :block/created-at 1666509769355,
+  :block/updated-at 1666509769355}
+ {:block/name "logstash",
+  :block/created-at 1666509768432,
+  :block/updated-at 1666509768432}
+ {:block/name "loguru",
+  :block/created-at 1665969917296,
+  :block/updated-at 1665969917296}
+ {:block/name "lua 로 postgres 연결하기",
+  :block/created-at 1665201167119,
+  :block/updated-at 1665201167119}
+ {:block/name "mac mini (m1)",
+  :block/created-at 1665969919181,
+  :block/updated-at 1665969919181}
+ {:block/name "mac mini 에 설치한 kubernetes cluster",
+  :block/created-at 1665415921474,
+  :block/updated-at 1665415921474}
+ {:block/name "macbook pro 15인치",
+  :block/created-at 1665969924501,
+  :block/updated-at 1665969924501}
+ {:block/name "makefile",
+  :block/created-at 1665969918117,
+  :block/updated-at 1665969918117}
+ {:block/name "market fee",
+  :block/created-at 1661749078990,
+  :block/updated-at 1661749078990}
+ {:block/name "melchidelivery",
+  :block/created-at 1665969914868,
+  :block/updated-at 1665969914868}
+ {:block/name "melchitv",
+  :block/created-at 1665969914867,
+  :block/updated-at 1665969914867}
+ {:block/name "merge",
+  :block/created-at 1659826932606,
+  :block/updated-at 1659826932606}
+ {:block/name "mermaid",
+  :block/created-at 1663912443436,
+  :block/updated-at 1663912454513}
+ {:block/name "mermaid gallery",
+  :block/created-at 1663912454505,
+  :block/updated-at 1663912520161}
+ {:block/name "micro frontend",
+  :block/created-at 1665969917789,
+  :block/updated-at 1665969917789}
+ {:block/name "microservice",
+  :block/created-at 1665385969546,
+  :block/updated-at 1665385969546}
+ {:block/name "microservices",
+  :block/created-at 1665969917090,
+  :block/updated-at 1665969917090}
+ {:block/name "migration 파일 생성하기",
+  :block/created-at 1665385969565,
+  :block/updated-at 1665385969565}
+ {:block/name "minikube",
+  :block/created-at 1665969918525,
+  :block/updated-at 1665969918525}
+ {:block/name "mkp-api-gateway",
+  :block/created-at 1664061154713,
+  :block/updated-at 1664061154713}
+ {:block/name "mockup-data api",
+  :block/created-at 1665969924075,
+  :block/updated-at 1665969924075}
+ {:block/name "modernlion",
+  :block/created-at 1665969915629,
+  :block/updated-at 1665969915629}
+ {:block/name "monorepo",
+  :block/created-at 1652193204599,
+  :block/updated-at 1652193204599}
+ {:block/name "moodle",
+  :block/created-at 1666509767991,
+  :block/updated-at 1666509767991}
+ {:block/name "nas",
+  :block/created-at 1669223142649,
+  :block/updated-at 1669223142649}
+ {:block/name "nats",
+  :block/created-at 1665969930551,
+  :block/updated-at 1665969930551}
+ {:block/name "neovim",
+  :block/created-at 1649128417409,
+  :block/updated-at 1649128417409}
+ {:block/name "neovim 설정 중 line number 설정",
+  :block/created-at 1649128417414,
+  :block/updated-at 1649128417414}
+ {:block/name "nestjs",
+  :block/created-at 1659826932827,
+  :block/updated-at 1665383607099}
+ {:block/name "nestjs 0.8",
+  :block/created-at 1665385969544,
+  :block/updated-at 1665385969544}
+ {:block/name "next cloud",
+  :block/created-at 1666509768605,
+  :block/updated-at 1666509768605}
+ {:block/name "next.js",
+  :block/created-at 1665969917020,
+  :block/updated-at 1665969917020}
+ {:block/name "nft item 서비스 draft",
+  :block/created-at 1664229620336,
+  :block/updated-at 1664229620336}
+ {:block/name "nft transfer events",
+  :block/created-at 1665415927871,
+  :block/updated-at 1665415927871}
+ {:block/name "nginx install with helm",
+  :block/created-at 1667311218881,
+  :block/updated-at 1667311218881}
+ {:block/name "node.js",
+  :block/created-at 1665969919055,
+  :block/updated-at 1665969919055}
+ {:block/name "nodebird sns",
+  :block/created-at 1665969931606,
+  :block/updated-at 1665969931606}
+ {:block/name "nodejs",
+  :block/created-at 1665698424589,
+  :block/updated-at 1665698424589}
+ {:block/name "nodejs express sample - confeti_cuisin app",
+  :block/created-at 1666509768041,
+  :block/updated-at 1666509768041}
+ {:block/name "now",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "npm",
+  :block/created-at 1665698424590,
+  :block/updated-at 1665698424590}
+ {:block/name "nvim",
+  :block/created-at 1665420373580,
+  :block/updated-at 1665420373580}
+ {:block/name "nvim에 custom plugin 설치하기",
+  :block/created-at 1665420373136,
+  :block/updated-at 1665451777626}
+ {:block/name "nvim에 vim-plug 설정",
+  :block/created-at 1665420373595,
+  :block/updated-at 1665420373595}
+ {:block/name "oauth2.0 server",
+  :block/created-at 1665969919569,
+  :block/updated-at 1665969919569}
+ {:block/name "obsidan",
+  :block/created-at 1665969942258,
+  :block/updated-at 1665969942258}
+ {:block/name "oezsoft",
+  :block/created-at 1665969914869,
+  :block/updated-at 1665969914869}
+ {:block/name "offer",
+  :block/created-at 1661749078953,
+  :block/updated-at 1661749078953}
+ {:block/name "oh-my-zsh",
+  :block/created-at 1649128417469,
+  :block/updated-at 1649128417469}
+ {:block/name "oh-my-zsh tips",
+  :block/created-at 1649128417784,
+  :block/updated-at 1649128417784}
+ {:block/name "open price feed",
+  :block/created-at 1665969919651,
+  :block/updated-at 1665969919651}
+ {:block/name "openfaas",
+  :block/created-at 1665969918174,
+  :block/updated-at 1665969918174}
+ {:block/name "openinterminal",
+  :block/created-at 1649128417556,
+  :block/updated-at 1649128417556}
+ {:block/name "openssl",
+  :block/created-at 1665969918790,
+  :block/updated-at 1665969918790}
+ {:block/name "oracle cloud",
+  :block/created-at 1665969918957,
+  :block/updated-at 1665969918957}
+ {:block/name "order",
+  :block/created-at 1661749078937,
+  :block/updated-at 1661749078937}
+ {:block/name "order fill changed events",
+  :block/created-at 1665415927874,
+  :block/updated-at 1665415927874}
+ {:block/name "order hash",
+  :block/created-at 1661749078971,
+  :block/updated-at 1661749078971}
+ {:block/name "orderfillchanged event",
+  :block/created-at 1661749078981,
+  :block/updated-at 1661749078981}
+ {:block/name "orders matched events",
+  :block/created-at 1665415927873,
+  :block/updated-at 1665415927873}
+ {:block/name "ordersmatched event",
+  :block/created-at 1661749078977,
+  :block/updated-at 1661749078977}
+ {:block/name "osx",
+  :block/created-at 1649128417467,
+  :block/updated-at 1649128417467}
+ {:block/name "osx에 neovim 설치해보자",
+  :block/created-at 1649128417417,
+  :block/updated-at 1665417646853}
+ {:block/name "osx에 zsh 설치해보자",
+  :block/created-at 1649128417470,
+  :block/updated-at 1649128417470}
+ {:block/name "osx에 개발환경 설치",
+  :block/created-at 1649128417518,
+  :block/updated-at 1649128417518}
+ {:block/name "ot",
+  :block/created-at 1665969921762,
+  :block/updated-at 1665969921762}
+ {:block/name "p2p 채점",
+  :block/created-at 1666509768319,
+  :block/updated-at 1666509768319}
+ {:block/name "pipenv",
+  :block/created-at 1666509768082,
+  :block/updated-at 1666509768082}
+ {:block/name "plgt",
+  :block/created-at 1665969917024,
+  :block/updated-at 1665969917024}
+ {:block/name "poetry",
+  :block/created-at 1665969917269,
+  :block/updated-at 1665969917269}
+ {:block/name "postcss",
+  :block/created-at 1669223130888,
+  :block/updated-at 1669223130888}
+ {:block/name "postgres",
+  :block/created-at 1664080293758,
+  :block/updated-at 1664080293758}
+ {:block/name "postgres cookbook",
+  :block/created-at 1664088765500,
+  :block/updated-at 1664088765500}
+ {:block/name "postgres environment variables",
+  :block/created-at 1663663373520,
+  :block/updated-at 1664074649632}
+ {:block/name "price oracle",
+  :block/created-at 1665969941790,
+  :block/updated-at 1665969941790}
+ {:block/name "prisma",
+  :block/created-at 1665969919866,
+  :block/updated-at 1665969919866}
+ {:block/name "project lion",
+  :block/created-at 1665969914852,
+  :block/updated-at 1665969914852}
+ {:block/name "prometheus",
+  :block/created-at 1666509768288,
+  :block/updated-at 1666509768288}
+ {:block/name "pytest",
+  :block/created-at 1665969921562,
+  :block/updated-at 1665969921562}
+ {:block/name "python",
+  :block/created-at 1665969924059,
+  :block/updated-at 1665969924059}
+ {:block/name "quarkus",
+  :block/created-at 1665969919846,
+  :block/updated-at 1665969919846}
+ {:block/name "queryproperties",
+  :block/created-at 1664614792430,
+  :block/updated-at 1664614792430}
+ {:block/name "question",
+  :block/created-at 1666509769091,
+  :block/updated-at 1666509769091}
+ {:block/name "quick capture",
+  :block/created-at 1666509768000,
+  :block/updated-at 1666509768000}
+ {:block/name "quotes",
+  :block/created-at 1664061154618,
+  :block/updated-at 1665906787759}
+ {:block/name "raspberry pi",
+  :block/created-at 1665969923279,
+  :block/updated-at 1665969923279}
+ {:block/name "react",
+  :block/created-at 1665969918524,
+  :block/updated-at 1665969918524}
+ {:block/name "react state management",
+  :block/created-at 1665969919378,
+  :block/updated-at 1665969919378}
+ {:block/name "react with typescript",
+  :block/created-at 1666509768299,
+  :block/updated-at 1666509768299}
+ {:block/name "react-redux",
+  :block/created-at 1665969917025,
+  :block/updated-at 1665969917025}
+ {:block/name "react-table",
+  :block/created-at 1665969918400,
+  :block/updated-at 1665969918400}
+ {:block/name "redis",
+  :block/created-at 1665201167026,
+  :block/updated-at 1665201167026}
+ {:block/name "redis in action",
+  :block/created-at 1665201167027,
+  :block/updated-at 1665201167027}
+ {:block/name "redux",
+  :block/created-at 1665969917266,
+  :block/updated-at 1665969917266}
+ {:block/name "redux 사용하는 샘플 app",
+  :block/created-at 1666509768041,
+  :block/updated-at 1666509768041}
+ {:block/name "redux-saga",
+  :block/created-at 1665969918218,
+  :block/updated-at 1665969918218}
+ {:block/name "redux-toolkit",
+  :block/created-at 1665969924111,
+  :block/updated-at 1665969924111}
+ {:block/name "refine.dev",
+  :block/created-at 1665415923668,
+  :block/updated-at 1665415923668}
+ {:block/name "reselect",
+  :block/created-at 1665969923240,
+  :block/updated-at 1665969923240}
+ {:block/name "reset mysql root password in mac os",
+  :block/created-at 1665969923107,
+  :block/updated-at 1665969923107}
+ {:block/name "returntype 활용하기",
+  :block/created-at 1665415923306,
+  :block/updated-at 1665415923306}
+ {:block/name "rn-location-based-app",
+  :block/created-at 1654969673547,
+  :block/updated-at 1654969673547}
+ {:block/name "roam",
+  :block/created-at 1665969942486,
+  :block/updated-at 1665969942486}
+ {:block/name "roam research",
+  :block/created-at 1665969916049,
+  :block/updated-at 1665969916049}
+ {:block/name "roam research 활용 팁",
+  :block/created-at 1669223144977,
+  :block/updated-at 1669223144977}
+ {:block/name "roam research 회고",
+  :block/created-at 1666509769181,
+  :block/updated-at 1666509769181}
+ {:block/name "roam/templates",
+  :block/created-at 1665969942485,
+  :block/updated-at 1665969942485}
+ {:block/name "rubix cube",
+  :block/created-at 1664925975009,
+  :block/updated-at 1664926044211}
+ {:block/name "rubix cube: 왕초보 해법",
+  :block/created-at 1665028470015,
+  :block/updated-at 1665028470015}
+ {:block/name "run management pod",
+  :block/created-at 1664088815348,
+  :block/updated-at 1664088815348}
+ {:block/name "rxjs",
+  :block/created-at 1665969920143,
+  :block/updated-at 1665969920143}
+ {:block/name "sam",
+  :block/created-at 1666509769284,
+  :block/updated-at 1666509769284}
+ {:block/name "save all open files in vim",
+  :block/created-at 1665969931431,
+  :block/updated-at 1665969931431}
+ {:block/name "sendbird api 사용해보기",
+  :block/created-at 1665969921281,
+  :block/updated-at 1665969921281}
+ {:block/name "sequalize",
+  :block/created-at 1666509768806,
+  :block/updated-at 1666509768806}
+ {:block/name "server sent event",
+  :block/created-at 1649129806467,
+  :block/updated-at 1649129806467}
+ {:block/name "serverless",
+  :block/created-at 1665969918173,
+  :block/updated-at 1665969918173}
+ {:block/name "setup",
+  :block/created-at 1649128417466,
+  :block/updated-at 1649128417466}
+ {:block/name "show database",
+  :block/created-at 1664206994446,
+  :block/updated-at 1664206994446}
+ {:block/name "side project",
+  :block/created-at 1665813292575,
+  :block/updated-at 1665911743349}
+ {:block/name "signature",
+  :block/created-at 1661749078966,
+  :block/updated-at 1661749078966}
+ {:block/name "skaffold",
+  :block/created-at 1666509769249,
+  :block/updated-at 1666509769249}
+ {:block/name "skt 아띠",
+  :block/created-at 1665969914873,
+  :block/updated-at 1665969914873}
+ {:block/name "sleact",
+  :block/created-at 1665969931608,
+  :block/updated-at 1665969931608}
+ {:block/name "slime keys",
+  :block/created-at 1665969921324,
+  :block/updated-at 1665969921324}
+ {:block/name "sns",
+  :block/created-at 1664614791502,
+  :block/updated-at 1664614791502}
+ {:block/name "sns와 sqs의 차이점",
+  :block/created-at 1664614791630,
+  :block/updated-at 1664614791630}
+ {:block/name "software architecture",
+  :block/created-at 1662952942117,
+  :block/updated-at 1662952988771}
+ {:block/name "software engineering",
+  :block/created-at 1665453500398,
+  :block/updated-at 1665453591319}
+ {:block/name "spacevim",
+  :block/created-at 1665498842758,
+  :block/updated-at 1665498842758}
+ {:block/name "spacevim에 custom plugin 설치하기",
+  :block/created-at 1665969915125,
+  :block/updated-at 1665969915125}
+ {:block/name "sql alchemy",
+  :block/created-at 1666509768062,
+  :block/updated-at 1666509768062}
+ {:block/name "sqs",
+  :block/created-at 1664614791613,
+  :block/updated-at 1664614791613}
+ {:block/name "stomp",
+  :block/created-at 1665969917501,
+  :block/updated-at 1665969917501}
+ {:block/name "storybook",
+  :block/created-at 1666509768081,
+  :block/updated-at 1666509768081}
+ {:block/name "strapi",
+  :block/created-at 1666509768289,
+  :block/updated-at 1666509768289}
+ {:block/name "sync redis to postgres",
+  :block/created-at 1665201167121,
+  :block/updated-at 1665201167121}
+ {:block/name "tailwind css",
+  :block/created-at 1665543020885,
+  :block/updated-at 1665543020885}
+ {:block/name "tdd",
+  :block/created-at 1666509768493,
+  :block/updated-at 1666509768493}
+ {:block/name "tekton",
+  :block/created-at 1666509769250,
+  :block/updated-at 1666509769250}
+ {:block/name "tenacity",
+  :block/created-at 1666509768063,
+  :block/updated-at 1666509768063}
+ {:block/name "terminal",
+  :block/created-at 1649128417854,
+  :block/updated-at 1649128417854}
+ {:block/name "terminal 에서 font 깨져보이는 문제 해결",
+  :block/created-at 1649128417413,
+  :block/updated-at 1649128417413}
+ {:block/name "testcase 등 고도화",
+  :block/created-at 1666509768042,
+  :block/updated-at 1666509768042}
+ {:block/name "text 기반 노트북",
+  :block/created-at 1665969942260,
+  :block/updated-at 1665969942260}
+ {:block/name "thisn todo",
+  :block/created-at 1664771898672,
+  :block/updated-at 1664771898672}
+ {:block/name "tig",
+  :block/created-at 1649128417599,
+  :block/updated-at 1649128417599}
+ {:block/name "til",
+  :block/created-at 1666509768750,
+  :block/updated-at 1666509768750}
+ {:block/name "timezone aware datetime w",
+  :block/created-at 1665969916513,
+  :block/updated-at 1665969916513}
+ {:block/name "timezone aware datetime w/ python",
+  :block/created-at 1665969916512,
+  :block/updated-at 1665969916512}
+ {:block/name "tips",
+  :block/created-at 1665969919652,
+  :block/updated-at 1665969919652}
+ {:block/name "tmux",
+  :block/created-at 1649128417598,
+  :block/updated-at 1649128417598}
+ {:block/name "tmuxinator",
+  :block/created-at 1649128417597,
+  :block/updated-at 1649128417597}
+ {:block/name "today app",
+  :block/created-at 1665969919546,
+  :block/updated-at 1666071706764}
+ {:block/name "todo",
+  :block/created-at 1664614792445,
+  :block/updated-at 1664681101045}
+ {:block/name "todo project",
+  :block/created-at 1665969923887,
+  :block/updated-at 1665969923887}
+ {:block/name "tradeinfo",
+  :block/created-at 1661749078936,
+  :block/updated-at 1661749078936}
+ {:block/name "traefik",
+  :block/created-at 1666509768960,
+  :block/updated-at 1666509768960}
+ {:block/name "typeorm",
+  :block/created-at 1665385969338,
+  :block/updated-at 1665385969338}
+ {:block/name "typeorm 0.3",
+  :block/created-at 1665385969443,
+  :block/updated-at 1665385969443}
+ {:block/name "typeorm 0.3 버전과 typeorm 0.2 버전과의 차이점 정리",
+  :block/created-at 1665385969441,
+  :block/updated-at 1665385969441}
+ {:block/name "typesafe-actions",
+  :block/created-at 1665969917974,
+  :block/updated-at 1665969917974}
+ {:block/name "typescript",
+  :block/created-at 1664071970124,
+  :block/updated-at 1665106399855}
+ {:block/name "typescript + aws sam",
+  :block/created-at 1664614796325,
+  :block/updated-at 1664614796325}
+ {:block/name "typescript + dynamodb",
+  :block/created-at 1665281339754,
+  :block/updated-at 1665281339754}
+ {:block/name "typescript + express",
+  :block/created-at 1664614796322,
+  :block/updated-at 1665382560393}
+ {:block/name "typescript + express 로 react app serve 하기",
+  :block/created-at 1665108550319,
+  :block/updated-at 1665108550319}
+ {:block/name "udemy",
+  :block/created-at 1666509767992,
+  :block/updated-at 1666509767992}
+ {:block/name "udemy 강의",
+  :block/created-at 1666509768234,
+  :block/updated-at 1666509768234}
+ {:block/name "unix tools",
+  :block/created-at 1665969924028,
+  :block/updated-at 1665969924028}
+ {:block/name "upstream",
+  :block/created-at 1659826932646,
+  :block/updated-at 1659826932646}
+ {:block/name "upstream/develop 을 merge 하지 않고 충돌을 미리 확인하기",
+  :block/created-at 1659826932646,
+  :block/updated-at 1659826932646}
+ {:block/name "using asyncio in python - 파이썬 비동기 라이브러리 asyncio",
+  :block/created-at 1665969923836,
+  :block/updated-at 1665969923836}
+ {:block/name "vim",
+  :block/created-at 1665420375906,
+  :block/updated-at 1665420375906}
+ {:block/name "vimwiki",
+  :block/created-at 1649128417750,
+  :block/updated-at 1665418004734}
+ {:block/name "vscode",
+  :block/created-at 1666509768054,
+  :block/updated-at 1666509768054}
+ {:block/name "vuepress",
+  :block/created-at 1666509768162,
+  :block/updated-at 1666509768162}
+ {:block/name "wait",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "waiting",
+  :block/created-at 1649128424282,
+  :block/updated-at 1649128424282}
+ {:block/name "wardrobe",
+  :block/created-at 1665969921335,
+  :block/updated-at 1665969921335}
+ {:block/name "web3 + create-react-app",
+  :block/created-at 1652653517150,
+  :block/updated-at 1652653651013}
+ {:block/name "webrtc",
+  :block/created-at 1665969921386,
+  :block/updated-at 1665969921386}
+ {:block/name "websocket",
+  :block/created-at 1649129806610,
+  :block/updated-at 1649129806610}
+ {:block/name "websocket api 만들기",
+  :block/created-at 1653578394990,
+  :block/updated-at 1653578756673}
+ {:block/name "welaa",
+  :block/created-at 1665969914861,
+  :block/updated-at 1665969914861}
+ {:block/name "welaaa",
+  :block/created-at 1666509767992,
+  :block/updated-at 1666509767992}
+ {:block/name "wishlist",
+  :block/created-at 1665969924504,
+  :block/updated-at 1665969924504}
+ {:block/name "write a effective log message",
+  :block/created-at 1658645574374,
+  :block/updated-at 1658646478701}
+ {:block/name "write a effective readme document",
+  :block/created-at 1658645732091,
+  :block/updated-at 1658645732091}
+ {:block/name "wyvern framework",
+  :block/created-at 1661749078986,
+  :block/updated-at 1661749078986}
+ {:block/name "yarn workspace",
+  :block/created-at 1652193204597,
+  :block/updated-at 1652193204597}
+ {:block/name "yoophi.github.io",
+  :block/created-at 1666509769355,
+  :block/updated-at 1666509769355}
+ {:block/name "zettelkasten",
+  :block/created-at 1665969918731,
+  :block/updated-at 1665969918731}
+ {:block/name "zsh",
+  :block/created-at 1649128417932,
+  :block/updated-at 1649128417932}
+ {:block/name "가능성",
+  :block/created-at 1665969929467,
+  :block/updated-at 1665969929467}
+ {:block/name "가정법",
+  :block/created-at 1665969925504,
+  :block/updated-at 1665969925504}
+ {:block/name "강의 서비스",
+  :block/created-at 1666509767991,
+  :block/updated-at 1666509767991}
+ {:block/name "개발 환경",
+  :block/created-at 1665969919547,
+  :block/updated-at 1665969919547}
+ {:block/name "개발 환경 설치",
+  :block/created-at 1665969924616,
+  :block/updated-at 1665969924616}
+ {:block/name "개인 프로젝트",
+  :block/created-at 1665969919173,
+  :block/updated-at 1665969919173}
+ {:block/name "개인화된 알림 서비스",
+  :block/created-at 1666509768096,
+  :block/updated-at 1666509768096}
+ {:block/name "거래",
+  :block/created-at 1661749079471,
+  :block/updated-at 1661749079471}
+ {:block/name "공부",
+  :block/created-at 1665969924281,
+  :block/updated-at 1665969924281}
+ {:block/name "관계대명사",
+  :block/created-at 1665969926155,
+  :block/updated-at 1665969926155}
+ {:block/name "관사",
+  :block/created-at 1665969926942,
+  :block/updated-at 1665969926942}
+ {:block/name "관심 가지고 있는 주제",
+  :block/created-at 1665969924860,
+  :block/updated-at 1665969924860}
+ {:block/name "교육서비스 플랫폼",
+  :block/created-at 1665969940870,
+  :block/updated-at 1665969940870}
+ {:block/name "나만 고양이 없어",
+  :block/created-at 1665969924256,
+  :block/updated-at 1665969924256}
+ {:block/name "납땜",
+  :block/created-at 1666509768483,
+  :block/updated-at 1666509768483}
+ {:block/name "내가 잘 할 수 있는 것",
+  :block/created-at 1665969940888,
+  :block/updated-at 1665969940888}
+ {:block/name "넛지 nudge",
+  :block/created-at 1669223134269,
+  :block/updated-at 1669223134269}
+ {:block/name "는",
+  :block/created-at 1665969942477,
+  :block/updated-at 1665969942477}
+ {:block/name "대체 불가능한 개발자",
+  :block/created-at 1664614792695,
+  :block/updated-at 1664614792695}
+ {:block/name "대화",
+  :block/created-at 1665969930406,
+  :block/updated-at 1665969930406}
+ {:block/name "더블 브래킷",
+  :block/created-at 1665969942470,
+  :block/updated-at 1665969942470}
+ {:block/name "데이터독",
+  :block/created-at 1665415928869,
+  :block/updated-at 1665415928869}
+ {:block/name "도메인 주도 설계",
+  :block/created-at 1665415922936,
+  :block/updated-at 1665451986654}
+ {:block/name "독서모임",
+  :block/created-at 1662954165067,
+  :block/updated-at 1662954212299}
+ {:block/name "독서모임 - 프로그래머의 뇌",
+  :block/created-at 1662954151667,
+  :block/updated-at 1662954233100}
+ {:block/name "동영상 교육 서비스",
+  :block/created-at 1665969940884,
+  :block/updated-at 1665969940884}
+ {:block/name "디자인 회의",
+  :block/created-at 1665969931612,
+  :block/updated-at 1665969931612}
+ {:block/name "디자인 회의 - 2021-05-20",
+  :block/created-at 1665969925476,
+  :block/updated-at 1665969925476}
+ {:block/name "렉시테크",
+  :block/created-at 1665969914877,
+  :block/updated-at 1665969914877}
+ {:block/name "로그",
+  :block/created-at 1665415928868,
+  :block/updated-at 1665415928868}
+ {:block/name "로그 규칙",
+  :block/created-at 1664614792742,
+  :block/updated-at 1664614792742}
+ {:block/name "리더십 타운홀",
+  :block/created-at 1649741034248,
+  :block/updated-at 1649741911990}
+ {:block/name "리치빔",
+  :block/created-at 1665969914866,
+  :block/updated-at 1665969914866}
+ {:block/name "리팩토링",
+  :block/created-at 1664061155082,
+  :block/updated-at 1664061155082}
+ {:block/name "마광수의 14가지 인생 법칙",
+  :block/created-at 1663493118763,
+  :block/updated-at 1663493145625}
+ {:block/name "마이크로서비스",
+  :block/created-at 1664061155491,
+  :block/updated-at 1664062311954}
+ {:block/name "마켓플레이스 개발팀",
+  :block/created-at 1661749080737,
+  :block/updated-at 1662340489498}
+ {:block/name "마켓플레이스 개발팀 스크럼 2022-04-18",
+  :block/created-at 1650432496360,
+  :block/updated-at 1650432649747}
+ {:block/name "마켓플레이스 개발팀 스크럼 2022-04-19",
+  :block/created-at 1650432483985,
+  :block/updated-at 1650432484411}
+ {:block/name "마켓플레이스 개발팀 스크럼 2022-04-20",
+  :block/created-at 1650432315254,
+  :block/updated-at 1650432637900}
+ {:block/name "마켓플레이스팀 스크럼",
+  :block/created-at 1650432637899,
+  :block/updated-at 1650432637899}
+ {:block/name "멋사 kubernetes 스터디",
+  :block/created-at 1665969916511,
+  :block/updated-at 1665969916511}
+ {:block/name "멋쟁이사자처럼",
+  :block/created-at 1665969914849,
+  :block/updated-at 1665969914849}
+ {:block/name "메모하기",
+  :block/created-at 1665969942262,
+  :block/updated-at 1665969942262}
+ {:block/name "메이커",
+  :block/created-at 1666509768482,
+  :block/updated-at 1666509768482}
+ {:block/name "메트릭 데이터",
+  :block/created-at 1665415928867,
+  :block/updated-at 1665415928867}
+ {:block/name "명사절",
+  :block/created-at 1665969925543,
+  :block/updated-at 1665969925543}
+ {:block/name "몇살이더라",
+  :block/created-at 1665969924255,
+  :block/updated-at 1665969924255}
+ {:block/name "모던라이언 코딩 과제",
+  :block/created-at 1666836234282,
+  :block/updated-at 1666836234282}
+ {:block/name "문서 만들기",
+  :block/created-at 1666509768382,
+  :block/updated-at 1666509768382}
+ {:block/name "물건",
+  :block/created-at 1665969924470,
+  :block/updated-at 1665969924470}
+ {:block/name "물건 관리",
+  :block/created-at 1665969916429,
+  :block/updated-at 1665969916429}
+ {:block/name "물건 구입 계획",
+  :block/created-at 1665969922219,
+  :block/updated-at 1665969922219}
+ {:block/name "물건 중고로 판매하기",
+  :block/created-at 1665969924472,
+  :block/updated-at 1665969924472}
+ {:block/name "물건 찾기",
+  :block/created-at 1665969924502,
+  :block/updated-at 1665969924502}
+ {:block/name "물고기는 존재하지 않는다",
+  :block/created-at 1669223134272,
+  :block/updated-at 1669223134272}
+ {:block/name "미디어 업로드 서버",
+  :block/created-at 1665969923675,
+  :block/updated-at 1665969923675}
+ {:block/name "민팅 서비스",
+  :block/created-at 1665969940882,
+  :block/updated-at 1665969940882}
+ {:block/name "버킷 리스트",
+  :block/created-at 1666509768472,
+  :block/updated-at 1666509768472}
+ {:block/name "북이십일",
+  :block/created-at 1665969914871,
+  :block/updated-at 1665969914871}
+ {:block/name "브런치",
+  :block/created-at 1665969942468,
+  :block/updated-at 1665969942468}
+ {:block/name "블록체인",
+  :block/created-at 1665969918727,
+  :block/updated-at 1665969918727}
+ {:block/name "블록체인 거래소",
+  :block/created-at 1665969940882,
+  :block/updated-at 1665969940882}
+ {:block/name "블록체인 거래소 프로젝트",
+  :block/created-at 1665415922950,
+  :block/updated-at 1665415922950}
+ {:block/name "블록체인 스터디",
+  :block/created-at 1665969941504,
+  :block/updated-at 1665969941504}
+ {:block/name "블록체인 스터디 2021-05-07",
+  :block/created-at 1665969942095,
+  :block/updated-at 1665969942095}
+ {:block/name "블록체인 스터디 2021-05-14",
+  :block/created-at 1665969941512,
+  :block/updated-at 1665969941512}
+ {:block/name "블록체인 스터디 2021-05-18",
+  :block/created-at 1665969941601,
+  :block/updated-at 1665969941601}
+ {:block/name "블록체인 스터디 2021-05-21",
+  :block/created-at 1665969941793,
+  :block/updated-at 1665969941793}
+ {:block/name "블록체인 스터디 2021-05-28",
+  :block/created-at 1665969941938,
+  :block/updated-at 1665969941938}
+ {:block/name "사내 개발자 교육",
+  :block/created-at 1665969940879,
+  :block/updated-at 1665969940879}
+ {:block/name "사역동사",
+  :block/created-at 1665969928770,
+  :block/updated-at 1665969928770}
+ {:block/name "삼성선물",
+  :block/created-at 1665969914882,
+  :block/updated-at 1665969914882}
+ {:block/name "새 m1 맥북 세팅하기",
+  :block/created-at 1667570740931,
+  :block/updated-at 1667616699726}
+ {:block/name "새로운 programming language 공부",
+  :block/created-at 1665969919647,
+  :block/updated-at 1665969919647}
+ {:block/name "서버리스",
+  :block/created-at 1665969925103,
+  :block/updated-at 1665969925103}
+ {:block/name "서비스 로그 수집",
+  :block/created-at 1666509768110,
+  :block/updated-at 1666509768110}
+ {:block/name "솔직함과 정직함",
+  :block/created-at 1664071970286,
+  :block/updated-at 1664071970286}
+ {:block/name "숙제 표현",
+  :block/created-at 1665969926414,
+  :block/updated-at 1665969926414}
+ {:block/name "스터디",
+  :block/created-at 1665969924439,
+  :block/updated-at 1665969924439}
+ {:block/name "시간대별 개발 관련한 관심사 정리",
+  :block/created-at 1665969914789,
+  :block/updated-at 1665969914789}
+ {:block/name "시제",
+  :block/created-at 1665969929921,
+  :block/updated-at 1665969929921}
+ {:block/name "신뢰 자산",
+  :block/created-at 1664614792693,
+  :block/updated-at 1664614792693}
+ {:block/name "신뢰가 없는 팀과 협업하는 방법",
+  :block/created-at 1665415921468,
+  :block/updated-at 1665415921468}
+ {:block/name "실시간 서비스",
+  :block/created-at 1666509768110,
+  :block/updated-at 1666509768110}
+ {:block/name "실전 아파치 카프카",
+  :block/created-at 1665969922353,
+  :block/updated-at 1665969922353}
+ {:block/name "아이템에 대한 offer 존재 여부 api 호출을 최적화하기",
+  :block/created-at 1664061154960,
+  :block/updated-at 1664061154960}
+ {:block/name "영어 수업",
+  :block/created-at 1665969920411,
+  :block/updated-at 1665969920411}
+ {:block/name "영어 수업 - april 14th, 2021",
+  :block/created-at 1669223147569,
+  :block/updated-at 1669223147569}
+ {:block/name "영어 수업 - april 16th, 2021",
+  :block/created-at 1669223147927,
+  :block/updated-at 1669223147927}
+ {:block/name "영어 수업 - april 21st, 2021",
+  :block/created-at 1669223148071,
+  :block/updated-at 1669223148071}
+ {:block/name "영어 수업 - april 23rd, 2021",
+  :block/created-at 1669223148547,
+  :block/updated-at 1669223148547}
+ {:block/name "영어 수업 - april 28th, 2021",
+  :block/created-at 1669223149017,
+  :block/updated-at 1669223149017}
+ {:block/name "영어 수업 - april 2nd, 2021",
+  :block/created-at 1669223149409,
+  :block/updated-at 1669223149409}
+ {:block/name "영어 수업 - april 30th, 2021",
+  :block/created-at 1669223149714,
+  :block/updated-at 1669223149714}
+ {:block/name "영어 수업 - april 7th, 2021",
+  :block/created-at 1669223150196,
+  :block/updated-at 1669223150196}
+ {:block/name "영어 수업 - april 9th, 2021",
+  :block/created-at 1669223150721,
+  :block/updated-at 1669223150721}
+ {:block/name "영어 수업 - august 11th, 2021",
+  :block/created-at 1669223150859,
+  :block/updated-at 1669223150859}
+ {:block/name "영어 수업 - august 18th, 2021",
+  :block/created-at 1669223151146,
+  :block/updated-at 1669223151146}
+ {:block/name "영어 수업 - august 4th, 2021",
+  :block/created-at 1669223151258,
+  :block/updated-at 1669223151258}
+ {:block/name "영어 수업 - august 6th, 2021",
+  :block/created-at 1669223151557,
+  :block/updated-at 1669223151557}
+ {:block/name "영어 수업 - december 1st, 2021",
+  :block/created-at 1669223151606,
+  :block/updated-at 1669223151606}
+ {:block/name "영어 수업 - december 3rd, 2021",
+  :block/created-at 1669223151750,
+  :block/updated-at 1669223151750}
+ {:block/name "영어 수업 - feb 19th, 2021",
+  :block/created-at 1669223152194,
+  :block/updated-at 1669223152194}
+ {:block/name "영어 수업 - july 14th, 2021",
+  :block/created-at 1669223152658,
+  :block/updated-at 1669223152658}
+ {:block/name "영어 수업 - july 23rd, 2021",
+  :block/created-at 1669223152960,
+  :block/updated-at 1669223152960}
+ {:block/name "영어 수업 - july 28th, 2021",
+  :block/created-at 1669223153499,
+  :block/updated-at 1669223153499}
+ {:block/name "영어 수업 - july 2nd, 2021",
+  :block/created-at 1669223153714,
+  :block/updated-at 1669223153714}
+ {:block/name "영어 수업 - july 30th, 2021",
+  :block/created-at 1669223154400,
+  :block/updated-at 1669223154400}
+ {:block/name "영어 수업 - july 7th, 2021",
+  :block/created-at 1669223154766,
+  :block/updated-at 1669223154766}
+ {:block/name "영어 수업 - july 9th, 2021",
+  :block/created-at 1669223155196,
+  :block/updated-at 1669223155196}
+ {:block/name "영어 수업 - june 11th, 2021",
+  :block/created-at 1669223155438,
+  :block/updated-at 1669223155438}
+ {:block/name "영어 수업 - june 16th, 2021",
+  :block/created-at 1669223155592,
+  :block/updated-at 1669223155592}
+ {:block/name "영어 수업 - june 23rd, 2021",
+  :block/created-at 1669223156065,
+  :block/updated-at 1669223156065}
+ {:block/name "영어 수업 - june 29th, 2021",
+  :block/created-at 1669223156524,
+  :block/updated-at 1669223156524}
+ {:block/name "영어 수업 - june 2nd, 2021",
+  :block/created-at 1669223156701,
+  :block/updated-at 1669223156701}
+ {:block/name "영어 수업 - june 30th, 2021",
+  :block/created-at 1669223157075,
+  :block/updated-at 1669223157075}
+ {:block/name "영어 수업 - june 9th, 2021",
+  :block/created-at 1669223157308,
+  :block/updated-at 1669223157308}
+ {:block/name "영어 수업 - march 10th, 2021",
+  :block/created-at 1669223157761,
+  :block/updated-at 1669223157761}
+ {:block/name "영어 수업 - march 17th, 2021",
+  :block/created-at 1669223157910,
+  :block/updated-at 1669223157910}
+ {:block/name "영어 수업 - march 19th, 2021",
+  :block/created-at 1669223158195,
+  :block/updated-at 1669223158195}
+ {:block/name "영어 수업 - march 24th, 2021",
+  :block/created-at 1669223158531,
+  :block/updated-at 1669223158531}
+ {:block/name "영어 수업 - march 26th, 2021",
+  :block/created-at 1669223158771,
+  :block/updated-at 1669223158771}
+ {:block/name "영어 수업 - march 31st, 2021",
+  :block/created-at 1669223159211,
+  :block/updated-at 1669223159211}
+ {:block/name "영어 수업 - march 5th, 2021",
+  :block/created-at 1669223159534,
+  :block/updated-at 1669223159534}
+ {:block/name "영어 수업 - may 14th, 2021",
+  :block/created-at 1669223160097,
+  :block/updated-at 1669223160097}
+ {:block/name "영어 수업 - may 7th, 2021",
+  :block/created-at 1669223160505,
+  :block/updated-at 1669223160505}
+ {:block/name "영어 수업 - november 19th, 2021",
+  :block/created-at 1669223160644,
+  :block/updated-at 1669223160644}
+ {:block/name "영어 수업 - november 3rd, 2021",
+  :block/created-at 1669223160819,
+  :block/updated-at 1669223160819}
+ {:block/name "영어 수업 - november 5th, 2021",
+  :block/created-at 1669223161227,
+  :block/updated-at 1669223161227}
+ {:block/name "영어 수업 - october 22nd, 2021",
+  :block/created-at 1669223161480,
+  :block/updated-at 1669223161480}
+ {:block/name "영어 수업 - october 29th, 2021",
+  :block/created-at 1669223161826,
+  :block/updated-at 1669223161826}
+ {:block/name "영어 수업 - october 6th, 2021",
+  :block/created-at 1669223161955,
+  :block/updated-at 1669223161955}
+ {:block/name "영어 수업 - october 8th, 2021",
+  :block/created-at 1669223162204,
+  :block/updated-at 1669223162204}
+ {:block/name "영어 수업]] [[april 9th, 2021",
+  :block/created-at 1665898796251,
+  :block/updated-at 1665898796251}
+ {:block/name "영어 숙제",
+  :block/created-at 1665969920047,
+  :block/updated-at 1665969920047}
+ {:block/name "영웅문",
+  :block/created-at 1665969914881,
+  :block/updated-at 1665969914881}
+ {:block/name "영작",
+  :block/created-at 1665969925701,
+  :block/updated-at 1665969925701}
+ {:block/name "영작 2021-02-05",
+  :block/created-at 1669223162746,
+  :block/updated-at 1669223162746}
+ {:block/name "영작 april 21st, 2021",
+  :block/created-at 1669223162797,
+  :block/updated-at 1669223162797}
+ {:block/name "오디오북 서비스",
+  :block/created-at 1665969940886,
+  :block/updated-at 1665969940886}
+ {:block/name "오프라인 수업에도 활용할 수 있도록 한다",
+  :block/created-at 1666509768224,
+  :block/updated-at 1666509768224}
+ {:block/name "오픈 플랫폼",
+  :block/created-at 1665969940885,
+  :block/updated-at 1665969940885}
+ {:block/name "왕초보 해법",
+  :block/created-at 1664926291036,
+  :block/updated-at 1664926291036}
+ {:block/name "왜 공부하는거지?",
+  :block/created-at 1665969924280,
+  :block/updated-at 1666071612990}
+ {:block/name "우루루",
+  :block/created-at 1665969914864,
+  :block/updated-at 1665969914864}
+ {:block/name "웹서비스 개발, 온라인 증권 트레이딩 프로그램 관련 프리랜서",
+  :block/created-at 1665969914880,
+  :block/updated-at 1665969914880}
+ {:block/name "이름",
+  :block/created-at 1665969942487,
+  :block/updated-at 1665969942487}
+ {:block/name "이벤트",
+  :block/created-at 1665969918831,
+  :block/updated-at 1665969918831}
+ {:block/name "이벤트 기반 microservices",
+  :block/created-at 1665969930554,
+  :block/updated-at 1665969930554}
+ {:block/name "이펙티브 타입스크립트",
+  :block/created-at 1664206994521,
+  :block/updated-at 1664206994521}
+ {:block/name "인증 서비스",
+  :block/created-at 1665969943351,
+  :block/updated-at 1665969943351}
+ {:block/name "인턴십 운영",
+  :block/created-at 1665969940878,
+  :block/updated-at 1665969940878}
+ {:block/name "인테리어 입찰 플랫폼",
+  :block/created-at 1666509768827,
+  :block/updated-at 1666509768827}
+ {:block/name "인프런 react 강의",
+  :block/created-at 1665969916507,
+  :block/updated-at 1665969916507}
+ {:block/name "일기",
+  :block/created-at 1666509768624,
+  :block/updated-at 1666509768624}
+ {:block/name "읽을 책",
+  :block/created-at 1665969924858,
+  :block/updated-at 1665969924858}
+ {:block/name "자격증",
+  :block/created-at 1665969919220,
+  :block/updated-at 1665969919220}
+ {:block/name "작문",
+  :block/created-at 1665969928492,
+  :block/updated-at 1665969928492}
+ {:block/name "중고로 판매하기",
+  :block/created-at 1665969924503,
+  :block/updated-at 1665969924503}
+ {:block/name "지갑 등록",
+  :block/created-at 1661749079435,
+  :block/updated-at 1661749079435}
+ {:block/name "지식서재",
+  :block/created-at 1665969914875,
+  :block/updated-at 1665969914875}
+ {:block/name "질문",
+  :block/created-at 1665969927776,
+  :block/updated-at 1665969927776}
+ {:block/name "창작자 royalties",
+  :block/created-at 1661749078988,
+  :block/updated-at 1661749078988}
+ {:block/name "창표님과 티타임",
+  :block/created-at 1665108550321,
+  :block/updated-at 1665108550321}
+ {:block/name "책 읽기 기록하기",
+  :block/created-at 1665969919057,
+  :block/updated-at 1666071568678}
+ {:block/name "챌린지",
+  :block/created-at 1666509768319,
+  :block/updated-at 1666509768319}
+ {:block/name "카프카, 데이터플랫폼의 최강자",
+  :block/created-at 1665969922352,
+  :block/updated-at 1665969922352}
+ {:block/name "커뮤니티를 기반을 하는 교육",
+  :block/created-at 1666509768224,
+  :block/updated-at 1666509768224}
+ {:block/name "코딩 교육 서비스",
+  :block/created-at 1665969940887,
+  :block/updated-at 1665969940887}
+ {:block/name "쿠폰 서비스",
+  :block/created-at 1666509768095,
+  :block/updated-at 1666509768095}
+ {:block/name "클론 코딩으로 시작하는 [[next.js]]",
+  :block/created-at 1666509768093,
+  :block/updated-at 1666509768093}
+ {:block/name "클린 아키텍처",
+  :block/created-at 1662953966162,
+  :block/updated-at 1665454041876}
+ {:block/name "클린 아키텍쳐",
+  :block/created-at 1666509768108,
+  :block/updated-at 1666509768108}
+ {:block/name "클린코드",
+  :block/created-at 1662954212299,
+  :block/updated-at 1662954212299}
+ {:block/name "키보드 만들기",
+  :block/created-at 1666509768483,
+  :block/updated-at 1666509768483}
+ {:block/name "태도의 말들",
+  :block/created-at 1665108550067,
+  :block/updated-at 1665108550067}
+ {:block/name "테스트 가능한 서비스",
+  :block/created-at 1665415922924,
+  :block/updated-at 1665415922924}
+ {:block/name "테스트 주도 개발",
+  :block/created-at 1665453550806,
+  :block/updated-at 1665453550806}
+ {:block/name "텍스트로 메모하기",
+  :block/created-at 1665969942262,
+  :block/updated-at 1665969942262}
+ {:block/name "페이지 이름",
+  :block/created-at 1665969942482,
+  :block/updated-at 1665969942482}
+ {:block/name "페이지 전반적인 react-query 의 querykey 정리하기",
+  :block/created-at 1664061154962,
+  :block/updated-at 1664061154962}
+ {:block/name "페이지 최초 접속시, `refresh_token` 만료여부 확인하기",
+  :block/created-at 1664061154956,
+  :block/updated-at 1664061154956}
+ {:block/name "표현",
+  :block/created-at 1665969924882,
+  :block/updated-at 1665969924882}
+ {:block/name "푸빌라 추가 개발 견적",
+  :block/created-at 1664614793619,
+  :block/updated-at 1664614793619}
+ {:block/name "프로그래머의 뇌",
+  :block/created-at 1662954190680,
+  :block/updated-at 1666071534027}
+ {:block/name "프로젝트 prefix 를 mkp 에서 kkr 로 변경하기",
+  :block/created-at 1665415922338,
+  :block/updated-at 1665415922338}
+ {:block/name "프리랜서 - cctv",
+  :block/created-at 1665969914876,
+  :block/updated-at 1665969914876}
+ {:block/name "플랫폼 사업부 개발팀 소개",
+  :block/created-at 1665969918776,
+  :block/updated-at 1665969918776}
+ {:block/name "플랫폼위클리 - 개발팀",
+  :block/created-at 1649750554537,
+  :block/updated-at 1649752132293}
+ {:block/name "필요성",
+  :block/created-at 1665969924806,
+  :block/updated-at 1665969924806}
+ {:block/name "하고 싶은 개발",
+  :block/created-at 1665969925109,
+  :block/updated-at 1665969925109}
+ {:block/name "하고 싶은 일",
+  :block/created-at 1665969918825,
+  :block/updated-at 1665969918825}
+ {:block/name "한글로 된 페이지",
+  :block/created-at 1665969924042,
+  :block/updated-at 1665969924042}
+ {:block/name "할 일 목록을 정리해보자",
+  :block/created-at 1666509769180,
+  :block/updated-at 1666509769180}
+ {:block/name "함수형 javascript 프로그래밍",
+  :block/created-at 1666509768968,
+  :block/updated-at 1666509768968}
+ {:block/name "헥사고날 아키텍처",
+  :block/created-at 1665453519704,
+  :block/updated-at 1665453519704}
+ {:block/name "헥사고날 아키텍처 설계와 구현",
+  :block/created-at 1665451816435,
+  :block/updated-at 1665451836857}
+ {:block/name "헥슬란트 hexlant",
+  :block/created-at 1666101627892,
+  :block/updated-at 1666101627892}
+ {:block/name "현재 개발 진행중",
+  :block/created-at 1665969923669,
+  :block/updated-at 1665969923669}
+ {:block/name "현재 완료",
+  :block/created-at 1665969925064,
+  :block/updated-at 1665969925064}
+ {:block/name "현재 읽고 있는 책",
+  :block/created-at 1665969924857,
+  :block/updated-at 1666071546036}
+ {:block/name "회사",
+  :block/created-at 1661749077208, 
+  :block/updated-at 1661749077208}]
